@@ -1,0 +1,198 @@
+<VRTDataset rasterXSize="124" rasterYSize="122">
+  <SRS dataAxisToSRSAxisMapping="1,2">PROJCS["WGS 84 / UTM zone 44N",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",81],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","32644"]]</SRS>
+  <GeoTransform>  5.4090000000000000e+05,  2.6153846153846153e+01,  0.0000000000000000e+00,  5.8537800000000000e+06,  0.0000000000000000e+00, -2.6153846153846153e+01</GeoTransform>
+  <VRTRasterBand dataType="UInt16" band="1">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">1106</MDI>
+      <MDI key="STATISTICS_MEAN">740.30380178827</MDI>
+      <MDI key="STATISTICS_MINIMUM">227</MDI>
+      <MDI key="STATISTICS_STDDEV">137.99931863271</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">96.85</MDI>
+    </Metadata>
+    <NoDataValue>0</NoDataValue>
+    <Histograms>
+      <HistItem>
+        <HistMin>226.5005681818182</HistMin>
+        <HistMax>1106.499431818182</HistMax>
+        <BucketCount>880</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0|0|1|0|0|0|0|0|0|1|0|1|0|0|0|0|0|1|0|0|0|0|1|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|2|0|0|0|0|0|0|0|1|1|0|0|0|1|1|0|0|0|1|0|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|0|0|1|0|0|1|0|0|0|0|0|2|1|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|1|0|0|0|0|1|1|0|0|0|0|1|0|0|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|1|0|0|1|1|0|0|0|0|0|1|0|1|0|1|1|0|0|2|0|0|1|0|0|0|1|0|0|1|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|0|0|0|0|1|1|2|1|0|0|1|1|0|1|1|0|0|0|0|3|0|1|3|0|0|1|2|4|0|0|3|2|2|0|0|1|1|7|2|3|0|3|8|3|6|3|3|4|6|5|3|4|1|6|6|7|5|2|5|3|5|1|2|7|7|4|6|6|8|9|6|10|3|7|9|7|9|10|9|8|11|6|10|17|6|15|7|17|15|12|19|7|15|10|13|17|10|14|19|18|12|18|17|12|14|16|10|13|12|10|15|9|11|9|5|7|6|8|6|7|6|4|11|3|4|1|8|5|4|10|5|6|5|3|3|9|7|2|6|7|2|6|3|5|5|8|5|5|3|2|3|2|7|5|2|6|6|3|4|2|3|6|5|3|3|6|4|8|4|3|5|7|4|5|4|5|6|2|4|6|7|11|9|7|11|11|8|13|9|5|12|4|6|8|8|4|10|10|4|5|13|7|7|8|12|2|10|9|11|3|9|12|7|6|12|10|10|9|10|13|9|13|8|6|7|8|12|8|9|6|9|5|16|13|6|11|6|8|9|11|9|3|7|7|4|7|8|4|9|11|14|9|4|6|9|4|4|9|6|7|6|4|8|3|6|3|8|9|6|9|5|6|6|5|5|2|6|9|4|4|1|8|3|4|2|2|4|7|4|1|2|10|6|2|5|4|4|5|8|1|3|11|3|3|4|8|3|5|6|2|6|7|5|4|3|5|6|2|3|0|2|5|6|7|4|5|6|2|5|1|5|8|8|4|7|4|6|5|10|2|8|5|8|7|3|2|5|3|3|7|4|3|9|4|3|6|4|5|6|3|8|6|4|3|3|1|9|7|2|9|4|5|4|3|3|7|8|8|4|6|4|4|5|4|4|5|4|2|3|8|5|3|1|10|5|8|1|5|10|3|6|3|5|2|4|4|3|4|4|3|7|4|5|7|3|1|2|2|3|2|1|4|3|4|3|0|4|6|0|3|1|1|5|4|2|2|6|2|2|3|4|1|2|1|5|1|2|5|2|3|2|3|2|4|1|3|0|4|4|1|5|0|2|2|2|3|3|6|4|3|4|2|1|2|1|2|0|2|6|2|1|2|1|3|2|3|2|4|1|2|6|2|3|2|4|1|4|1|1|2|4|2|4|1|3|2|3|1|0|1|2|2|2|2|2|0|0|3|0|3|1|5|0|1|2|1|0|2|1|0|0|0|1|0|1|1|1|1|0|0|0|1|0|2|0|1|2|2|0|1|0|0|0|0|0|0|1|0|0|1|1|1|0|1|1|0|0|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/romik/OneDrive/Рабочий стол/Project QGIS Mamontovo field's/Field Shots/2019/28.05.2019/1 Field/S2B_tile_20190528_44UND_0_R60B01.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="54" RasterYSize="53" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="54" ySize="53" />
+      <DstRect xOff="0" yOff="0" xSize="123.882352941176" ySize="121.588235294118" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="2">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">1602</MDI>
+      <MDI key="STATISTICS_MEAN">921.67110104727</MDI>
+      <MDI key="STATISTICS_MINIMUM">244</MDI>
+      <MDI key="STATISTICS_STDDEV">228.8461172441</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">93.42</MDI>
+    </Metadata>
+    <NoDataValue>0</NoDataValue>
+    <Histograms>
+      <HistItem>
+        <HistMin>243.5003679175865</HistMin>
+        <HistMax>1602.499632082413</HistMax>
+        <BucketCount>1359</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>3|3|1|3|2|1|2|3|6|5|4|7|3|3|3|2|3|3|6|5|3|9|1|8|9|6|4|9|7|3|8|5|12|9|9|7|10|10|6|13|4|3|11|5|9|16|8|6|11|12|19|7|12|11|15|2|8|10|9|9|5|10|14|6|8|17|11|13|11|10|23|4|12|8|20|11|14|11|16|16|11|13|14|8|15|10|8|10|10|14|11|6|11|15|7|15|12|10|10|21|10|8|16|16|14|7|16|19|22|10|12|12|14|12|12|17|5|13|6|12|14|16|10|9|16|15|6|14|17|17|9|17|15|18|13|11|13|10|7|7|12|14|21|13|20|10|12|9|8|16|13|10|5|12|7|10|15|16|14|13|16|8|8|11|17|7|13|14|22|9|7|11|11|9|5|8|13|14|13|11|16|7|17|8|8|12|10|3|7|15|12|14|9|12|8|7|12|12|13|8|13|8|11|7|10|8|6|10|3|5|10|4|8|5|14|11|6|5|9|10|6|6|5|7|8|9|12|12|5|7|5|6|4|11|6|6|8|7|2|8|18|10|10|8|5|5|4|5|6|12|9|7|3|10|6|8|7|5|8|8|10|7|8|10|13|10|7|9|7|3|10|8|8|4|11|13|7|7|10|12|7|10|5|5|11|12|5|8|11|8|5|9|13|9|6|7|8|8|6|15|6|4|7|9|8|9|12|6|4|5|10|7|10|6|13|8|8|12|5|8|7|10|3|7|19|9|8|7|13|5|9|7|5|10|9|16|7|6|15|12|2|10|6|7|23|6|10|18|5|12|13|10|6|14|8|16|14|15|12|8|17|18|12|10|27|15|8|12|22|21|9|21|16|27|16|29|17|18|27|25|18|21|39|15|30|17|30|26|15|39|45|23|39|40|15|44|22|56|62|50|63|61|26|67|77|39|90|47|49|56|35|83|83|48|85|82|62|89|96|43|120|57|63|130|60|103|83|77|145|146|59|142|80|134|142|89|176|160|95|178|143|106|170|68|187|189|82|186|194|73|195|238|118|199|202|117|230|132|249|249|103|285|283|150|282|303|147|327|153|277|258|155|337|344|178|339|313|159|409|180|354|376|183|382|310|200|382|381|215|378|166|411|328|186|399|444|184|393|405|168|358|372|175|368|42|352|375|154|341|374|160|305|314|164|335|112|300|317|148|278|254|147|298|269|133|257|110|268|189|130|233|220|90|213|222|92|196|247|95|234|83|150|234|89|190|144|119|185|150|85|176|115|213|192|95|170|187|106|184|161|95|213|58|183|219|100|164|194|123|191|189|78|228|70|188|165|66|277|173|117|199|225|87|106|275|87|246|110|237|249|89|220|290|117|258|207|192|229|163|274|203|133|254|306|149|250|244|130|272|189|270|296|124|247|296|112|283|336|178|381|141|269|317|146|302|304|207|291|331|166|241|292|87|267|182|305|237|113|284|296|137|237|361|152|280|109|244|283|124|262|247|123|236|255|120|201|100|285|251|110|211|138|119|224|200|149|203|80|237|150|88|195|184|83|176|156|69|159|159|69|172|67|155|115|57|144|124|82|117|122|69|112|62|109|94|59|109|114|51|102|80|54|74|46|109|101|45|91|78|49|85|90|41|80|39|93|71|29|59|49|27|78|72|39|64|73|33|55|37|55|73|22|68|44|27|64|49|29|63|30|54|38|23|59|50|18|48|48|24|63|39|63|66|42|74|52|28|56|67|28|78|78|42|58|23|91|68|26|85|74|33|73|54|46|71|43|73|80|32|59|85|0|141|0|170|0|155|0|136|0|142|0|213|0|163|0|148|0|220|0|169|0|177|0|182|0|218|0|166|0|197|0|186|0|229|0|197|0|192|0|225|0|170|0|192|0|191|0|228|0|189|0|186|0|279|0|208|0|200|0|243|0|249|0|217|0|203|0|187|0|303|0|215|0|176|0|261|0|196|0|197|0|198|0|261|0|213|0|196|0|201|0|260|0|211|0|180|0|282|0|178|0|181|0|196|0|270|0|225|0|201|0|276|0|215|0|208|0|140|0|302|0|194|0|195|0|188|0|244|0|246|0|168|0|235|0|198|0|196|0|198|0|268|0|193|0|202|0|234|0|219|0|200|0|205|0|272|0|208|0|176|0|202|0|250|0|185|0|179|0|223|0|176|0|173|0|188|0|209|0|199|0|164|0|217|0|173|0|157|0|177|0|213|0|164|0|159|0|166|0|201|0|132|0|168|0|203|0|131|0|138|0|113|0|183|0|135|0|121|0|130|0|191|0|114|0|179|0|175|0|77|0|167|0|103|0|149|0|160|0|71|0|143|0|152|0|78|0|142|0|137|0|79|0|137|0|73|0|154|0|105|0|59|0|151|0|123|0|56|0|115|0|125|0|85|0|163|0|126|0|51|0|134|0|56|0|153|0|139|0|47|0|114|0|151|0|56|0|136|0|119|0|62|0|141|0|87|0|117|0|145|0|61|0|170|0|107|0|53|0|110|0|130|0|56|0|129|0|70|0|90|0|129|0|61|0|124|0|141|0|46|0|108|0|122|0|61|0|62|0|48|0|112|0|97|0|50|0|93|0|81|0|62|0|73|0|87|0|66|0|74|0|71|0|34|0|84|0|20|0|68|0|62|0|33|0|86|0|47|0|20|0|78|0|55|0|31|0|59|0|12|0|52|0|42|0|25|0|53|0|45|0|28|0|34|0|50|0|21|0|40|0|14|0|54|0|37|0|29|0|28|0|41|0|8|0|28|0|29|0|10|0|41|0|7|0|25|0|23|0|12|0|20|0|21|0|13|0|22|0|31|0|7|0|19|0|20|0|14|0|9|0|1|0|20|0|22|0|6|0|15|0|12|0|3|0|15|0|19|0|1|0|27|0|7|0|9|0|5|0|7|0|6|0|11|0|4|0|12|0|11|0|2|0|4|0|4|0|7|0|1|0|9|0|3|0|4|0|1|0|6|0|1|0|1|0|1|0|8|0|0|0|2|0|0|0|6|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0|2|0|0|0|1|0|1|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/romik/OneDrive/Рабочий стол/Project QGIS Mamontovo field's/Field Shots/2019/28.05.2019/1 Field/S2B_tile_20190528_44UND_0_R10B02.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="317" RasterYSize="310" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="317" ySize="310" />
+      <DstRect xOff="0.764705882352941" yOff="1.14705882352941" xSize="121.205882352941" ySize="118.529411764706" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="3">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">2016</MDI>
+      <MDI key="STATISTICS_MEAN">1109.3584772148</MDI>
+      <MDI key="STATISTICS_MINIMUM">438</MDI>
+      <MDI key="STATISTICS_STDDEV">294.15490449275</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">93.42</MDI>
+    </Metadata>
+    <NoDataValue>0</NoDataValue>
+    <Histograms>
+      <HistItem>
+        <HistMin>437.5003166561115</HistMin>
+        <HistMax>2016.499683343889</HistMax>
+        <BucketCount>1579</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>2|0|1|0|0|0|3|0|0|0|1|2|3|1|4|0|1|3|0|3|2|4|3|3|2|1|2|0|2|2|4|5|3|1|4|1|2|5|1|1|0|6|3|0|3|3|4|4|6|1|2|2|2|3|2|2|2|3|4|1|4|4|3|7|2|2|2|6|2|6|3|5|4|3|6|5|3|6|10|4|5|5|2|2|2|7|6|9|6|5|4|9|10|1|3|6|6|7|8|3|6|7|6|7|3|6|6|10|4|6|2|7|12|4|5|5|12|4|9|6|8|7|11|4|11|13|2|13|5|6|3|4|5|10|9|5|9|7|11|8|9|10|7|10|17|10|11|5|6|10|7|6|12|5|9|5|4|13|12|5|9|8|10|9|9|6|14|8|11|12|9|9|10|14|17|5|6|10|11|4|9|13|14|11|18|14|12|14|12|8|12|5|13|18|1|13|7|13|10|9|8|17|10|4|9|5|15|12|8|10|14|5|14|17|11|23|10|9|12|6|13|8|10|15|4|2|17|7|19|14|6|20|15|9|8|12|9|11|4|10|10|10|9|14|10|14|12|8|20|9|10|13|2|10|7|11|11|14|10|19|22|6|13|10|32|21|9|14|18|12|16|23|6|24|3|17|32|12|27|31|9|23|25|12|21|21|28|30|9|35|19|16|29|33|20|41|10|37|36|19|54|40|34|39|49|31|59|53|17|52|32|55|67|39|46|63|25|52|45|52|73|38|80|69|34|79|84|35|84|82|36|87|34|102|92|44|98|113|32|101|104|66|92|98|63|122|61|105|123|72|106|123|64|129|120|93|149|70|134|130|80|123|153|69|170|160|83|162|79|171|170|106|165|180|90|202|164|83|175|58|201|181|93|204|171|117|249|195|88|179|277|143|212|124|298|255|122|231|275|109|235|299|138|252|115|296|292|135|257|299|144|241|327|161|306|140|294|342|163|283|304|144|291|317|163|222|140|283|299|171|298|278|189|341|276|165|322|347|152|322|178|335|319|137|316|297|169|291|337|143|303|139|311|264|109|256|301|126|287|263|108|234|122|274|241|97|198|200|140|263|226|100|233|122|250|230|108|206|237|124|229|244|98|195|264|106|252|92|239|247|122|205|239|112|272|231|134|232|133|263|247|120|259|213|126|270|239|120|246|120|242|259|159|245|259|114|281|283|121|245|142|272|331|91|276|263|119|266|281|142|329|278|153|297|137|268|319|152|286|279|148|303|299|119|281|152|311|316|118|290|246|134|305|247|139|275|137|283|255|135|258|286|115|258|229|157|234|299|97|254|104|213|245|148|259|234|118|239|222|108|223|118|165|209|117|195|196|0|301|0|365|0|261|0|241|0|247|0|320|0|234|0|234|0|279|0|211|0|185|0|210|0|228|0|192|0|137|0|154|0|238|0|148|0|114|0|183|0|157|0|133|0|121|0|137|0|114|0|107|0|135|0|94|0|109|0|85|0|95|0|81|0|91|0|84|0|80|0|66|0|84|0|79|0|73|0|83|0|58|0|77|0|48|0|46|0|47|0|72|0|43|0|47|0|69|0|59|0|46|0|46|0|46|0|41|0|34|0|58|0|39|0|40|0|41|0|72|0|37|0|35|0|38|0|69|0|30|0|36|0|49|0|52|0|50|0|37|0|69|0|32|0|27|0|68|0|40|0|41|0|54|0|56|0|46|0|37|0|58|0|78|0|50|0|59|0|65|0|77|0|62|0|55|0|105|0|59|0|74|0|99|0|64|0|81|0|52|0|106|0|62|0|67|0|66|0|85|0|80|0|81|0|118|0|51|0|75|0|91|0|116|0|82|0|78|0|75|0|130|0|81|0|83|0|104|0|54|0|119|0|64|0|145|0|154|0|66|0|141|0|124|0|70|0|154|0|128|0|54|0|142|0|73|0|153|0|140|0|87|0|168|0|140|0|55|0|182|0|178|0|100|0|156|0|176|0|85|0|173|0|78|0|186|0|171|0|91|0|160|0|151|0|86|0|191|0|164|0|76|0|186|0|98|0|184|0|174|0|89|0|190|0|168|0|96|0|173|0|168|0|83|0|173|0|89|0|189|0|192|0|106|0|188|0|164|0|70|0|179|0|204|0|89|0|193|0|100|0|164|0|171|0|71|0|205|0|212|0|98|0|220|0|151|0|84|0|187|0|176|0|82|0|211|0|102|0|193|0|166|0|111|0|218|0|171|0|101|0|201|0|183|0|92|0|209|0|92|0|181|0|226|0|77|0|184|0|188|0|131|0|212|0|197|0|108|0|225|0|103|0|188|0|212|0|117|0|199|0|184|0|100|0|198|0|153|0|104|0|232|0|110|0|187|0|217|0|107|0|209|0|223|0|110|0|206|0|205|0|91|0|207|0|190|0|98|0|201|0|114|0|206|0|174|0|73|0|168|0|182|0|81|0|160|0|178|0|87|0|139|0|66|0|176|0|193|0|69|0|165|0|170|0|95|0|117|0|150|0|82|0|147|0|46|0|166|0|159|0|83|0|139|0|138|0|67|0|143|0|139|0|64|0|143|0|123|0|70|0|112|0|58|0|118|0|129|0|60|0|120|0|126|0|58|0|99|0|124|0|47|0|123|0|73|0|114|0|99|0|53|0|98|0|97|0|50|0|129|0|114|0|51|0|90|0|62|0|111|0|105|0|54|0|94|0|115|0|42|0|90|0|100|0|41|0|96|0|59|0|126|0|79|0|43|0|112|0|96|0|49|0|75|0|112|0|36|0|120|0|106|0|31|0|106|0|27|0|108|0|112|0|56|0|121|0|78|0|48|0|97|0|89|0|63|0|75|0|39|0|98|0|68|0|29|0|83|0|92|0|40|0|72|0|73|0|51|0|94|0|38|0|51|0|87|0|46|0|50|0|81|0|40|0|74|0|65|0|22|0|78|0|38|0|59|0|62|0|52|0|61|0|52|0|34|0|91|0|46|0|31|0|70|0|59|0|25|0|42|0|29|0|47|0|63|0|27|0|35|0|46|0|19|0|25|0|55|0|11|0|47|0|29|0|26|0|41|0|20|0|45|0|51|0|19|0|43|0|42|0|15|0|27|0|17|0|28|0|32|0|9|0|22|0|23|0|16|0|29|0|21|0|27|0|16|0|10|0|27|0|40|0|16|0|16|0|12|0|3|0|32|0|34|0|21|0|22|0|7|0|8|0|19|0|6|0|16|0|25|0|8|0|24|0|9|0|5|0|13|0|20|0|8|0|15|0|10|0|12|0|18|0|9|0|17|0|6|0|9|0|13|0|23|0|13|0|13|0|2|0|12|0|6|0|7|0|9|0|19|0|2|0|7|0|15|0|4|0|11|0|3|0|7|0|11|0|3|0|4|0|2|0|3|0|8|0|6|0|1|0|9|0|0|0|6|0|5|0|0|0|3|0|3|0|1|0|6|0|5|0|1|0|1|0|1|0|4|0|0|0|0|0|0|0|1|0|1|0|1|0|1|0|1|0|0|0|4|0|1|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|1|0|4|0|0|0|0|0|0|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/romik/OneDrive/Рабочий стол/Project QGIS Mamontovo field's/Field Shots/2019/28.05.2019/1 Field/S2B_tile_20190528_44UND_0_R10B03.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="317" RasterYSize="310" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="317" ySize="310" />
+      <DstRect xOff="0.764705882352941" yOff="1.14705882352941" xSize="121.205882352941" ySize="118.529411764706" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="4">
+    <NoDataValue>0</NoDataValue>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/romik/OneDrive/Рабочий стол/Project QGIS Mamontovo field's/Field Shots/2019/28.05.2019/1 Field/S2B_tile_20190528_44UND_0_R10B04.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="317" RasterYSize="310" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="317" ySize="310" />
+      <DstRect xOff="0.764705882352941" yOff="1.14705882352941" xSize="121.205882352941" ySize="118.529411764706" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="5">
+    <NoDataValue>0</NoDataValue>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/romik/OneDrive/Рабочий стол/Project QGIS Mamontovo field's/Field Shots/2019/28.05.2019/1 Field/S2B_tile_20190528_44UND_0_R20B05.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="159" RasterYSize="156" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="159" ySize="156" />
+      <DstRect xOff="0.764705882352941" yOff="0.764705882352941" xSize="121.588235294118" ySize="119.294117647059" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="6">
+    <NoDataValue>0</NoDataValue>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/romik/OneDrive/Рабочий стол/Project QGIS Mamontovo field's/Field Shots/2019/28.05.2019/1 Field/S2B_tile_20190528_44UND_0_R20B06.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="159" RasterYSize="156" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="159" ySize="156" />
+      <DstRect xOff="0.764705882352941" yOff="0.764705882352941" xSize="121.588235294118" ySize="119.294117647059" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="7">
+    <NoDataValue>0</NoDataValue>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/romik/OneDrive/Рабочий стол/Project QGIS Mamontovo field's/Field Shots/2019/28.05.2019/1 Field/S2B_tile_20190528_44UND_0_R20B07.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="159" RasterYSize="156" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="159" ySize="156" />
+      <DstRect xOff="0.764705882352941" yOff="0.764705882352941" xSize="121.588235294118" ySize="119.294117647059" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="8">
+    <NoDataValue>0</NoDataValue>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/romik/OneDrive/Рабочий стол/Project QGIS Mamontovo field's/Field Shots/2019/28.05.2019/1 Field/S2B_tile_20190528_44UND_0_R10B08.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="317" RasterYSize="310" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="317" ySize="310" />
+      <DstRect xOff="0.764705882352941" yOff="1.14705882352941" xSize="121.205882352941" ySize="118.529411764706" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="9">
+    <NoDataValue>0</NoDataValue>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/romik/OneDrive/Рабочий стол/Project QGIS Mamontovo field's/Field Shots/2019/28.05.2019/1 Field/S2B_tile_20190528_44UND_0_R20B8A.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="159" RasterYSize="156" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="159" ySize="156" />
+      <DstRect xOff="0.764705882352941" yOff="0.764705882352941" xSize="121.588235294118" ySize="119.294117647059" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="10">
+    <NoDataValue>0</NoDataValue>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/romik/OneDrive/Рабочий стол/Project QGIS Mamontovo field's/Field Shots/2019/28.05.2019/1 Field/S2B_tile_20190528_44UND_0_R60B09.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="54" RasterYSize="53" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="54" ySize="53" />
+      <DstRect xOff="0" yOff="0" xSize="123.882352941176" ySize="121.588235294118" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="11">
+    <NoDataValue>0</NoDataValue>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/romik/OneDrive/Рабочий стол/Project QGIS Mamontovo field's/Field Shots/2019/28.05.2019/1 Field/S2B_tile_20190528_44UND_0_R20B11.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="159" RasterYSize="156" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="159" ySize="156" />
+      <DstRect xOff="0.764705882352941" yOff="0.764705882352941" xSize="121.588235294118" ySize="119.294117647059" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="12">
+    <NoDataValue>0</NoDataValue>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/romik/OneDrive/Рабочий стол/Project QGIS Mamontovo field's/Field Shots/2019/28.05.2019/1 Field/S2B_tile_20190528_44UND_0_R20B12.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="159" RasterYSize="156" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="159" ySize="156" />
+      <DstRect xOff="0.764705882352941" yOff="0.764705882352941" xSize="121.588235294118" ySize="119.294117647059" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="13">
+    <NoDataValue>0</NoDataValue>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/romik/OneDrive/Рабочий стол/Project QGIS Mamontovo field's/Field Shots/2019/28.05.2019/1 Field/S2B_tile_20190528_44UND_0_R60B09.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="54" RasterYSize="53" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="54" ySize="53" />
+      <DstRect xOff="0" yOff="0" xSize="123.882352941176" ySize="121.588235294118" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+</VRTDataset>

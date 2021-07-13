@@ -1,0 +1,2343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Style id="1"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad92b875</color><fill>1</fill></PolyStyle></Style>
+    <Style id="2"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adb77668</color><fill>1</fill></PolyStyle></Style>
+    <Style id="3"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad8c65b5</color><fill>1</fill></PolyStyle></Style>
+    <Style id="4"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad62c24e</color><fill>1</fill></PolyStyle></Style>
+    <Style id="5"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad9072b6</color><fill>1</fill></PolyStyle></Style>
+    <Style id="6"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad4ac191</color><fill>1</fill></PolyStyle></Style>
+    <Style id="7"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adbd8191</color><fill>1</fill></PolyStyle></Style>
+    <Style id="8"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc68783</color><fill>1</fill></PolyStyle></Style>
+    <Style id="9"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adb54eac</color><fill>1</fill></PolyStyle></Style>
+    <Style id="10"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad7bb8ac</color><fill>1</fill></PolyStyle></Style>
+    <Style id="11"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad7c8bc5</color><fill>1</fill></PolyStyle></Style>
+    <Style id="12"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad97ba6b</color><fill>1</fill></PolyStyle></Style>
+    <Style id="13"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adad66b8</color><fill>1</fill></PolyStyle></Style>
+    <Style id="14"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc14579</color><fill>1</fill></PolyStyle></Style>
+    <Style id="15"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adabb15c</color><fill>1</fill></PolyStyle></Style>
+    <Style id="16"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad79a4cd</color><fill>1</fill></PolyStyle></Style>
+    <Style id="17"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ada6d27a</color><fill>1</fill></PolyStyle></Style>
+    <Style id="18"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad4c7fb6</color><fill>1</fill></PolyStyle></Style>
+    <Style id="19"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad6275af</color><fill>1</fill></PolyStyle></Style>
+    <Style id="20"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adb36a63</color><fill>1</fill></PolyStyle></Style>
+    <Style id="21"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adbb4c58</color><fill>1</fill></PolyStyle></Style>
+    <Style id="22"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad5581bb</color><fill>1</fill></PolyStyle></Style>
+    <Style id="23"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc176ca</color><fill>1</fill></PolyStyle></Style>
+    <Style id="24"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adab5daf</color><fill>1</fill></PolyStyle></Style>
+    <Style id="25"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad7872c6</color><fill>1</fill></PolyStyle></Style>
+    <Style id="26"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adbea97a</color><fill>1</fill></PolyStyle></Style>
+    <Style id="27"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc4874f</color><fill>1</fill></PolyStyle></Style>
+    <Style id="28"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adce8fa5</color><fill>1</fill></PolyStyle></Style>
+    <Style id="29"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adb7c86b</color><fill>1</fill></PolyStyle></Style>
+    <Style id="30"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad84d0b3</color><fill>1</fill></PolyStyle></Style>
+    <Style id="31"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adcaa878</color><fill>1</fill></PolyStyle></Style>
+    <Style id="32"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>add0cf86</color><fill>1</fill></PolyStyle></Style>
+    <Style id="33"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad66bf48</color><fill>1</fill></PolyStyle></Style>
+    <Style id="34"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad6b92bc</color><fill>1</fill></PolyStyle></Style>
+    <Style id="35"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad91cb96</color><fill>1</fill></PolyStyle></Style>
+    <Style id="36"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adb773be</color><fill>1</fill></PolyStyle></Style>
+    <Style id="37"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adaac665</color><fill>1</fill></PolyStyle></Style>
+    <Style id="38"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc995b8</color><fill>1</fill></PolyStyle></Style>
+    <Style id="39"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad77b99c</color><fill>1</fill></PolyStyle></Style>
+    <Style id="40"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc770b7</color><fill>1</fill></PolyStyle></Style>
+    <Style id="41"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad978dc7</color><fill>1</fill></PolyStyle></Style>
+    <Style id="42"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adb17361</color><fill>1</fill></PolyStyle></Style>
+    <Style id="44"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc1b966</color><fill>1</fill></PolyStyle></Style>
+    <Style id="45"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad87c68b</color><fill>1</fill></PolyStyle></Style>
+    <Style id="46"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad4db4b1</color><fill>1</fill></PolyStyle></Style>
+    <Style id="49"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc19c4f</color><fill>1</fill></PolyStyle></Style>
+    <Style id="50"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adae6172</color><fill>1</fill></PolyStyle></Style>
+    <Style id="51"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad9ebd62</color><fill>1</fill></PolyStyle></Style>
+    <Style id="52"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad7c79b8</color><fill>1</fill></PolyStyle></Style>
+    <Style id="53"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad8bae65</color><fill>1</fill></PolyStyle></Style>
+    <Style id="54"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad8dcc80</color><fill>1</fill></PolyStyle></Style>
+    <Style id="55"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc7b698</color><fill>1</fill></PolyStyle></Style>
+    <Style id="56"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc7769f</color><fill>1</fill></PolyStyle></Style>
+    <Style id="57"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ada9c690</color><fill>1</fill></PolyStyle></Style>
+    <Style id="58"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adb8c557</color><fill>1</fill></PolyStyle></Style>
+    <Style id="59"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad9e5aa9</color><fill>1</fill></PolyStyle></Style>
+    <Style id="61"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc26185</color><fill>1</fill></PolyStyle></Style>
+    <Style id="62"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adbe7795</color><fill>1</fill></PolyStyle></Style>
+    <Style id="63"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad69b488</color><fill>1</fill></PolyStyle></Style>
+    <Style id="64"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adbe5b94</color><fill>1</fill></PolyStyle></Style>
+    <Style id="65"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad8177ba</color><fill>1</fill></PolyStyle></Style>
+    <Style id="66"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad9fc895</color><fill>1</fill></PolyStyle></Style>
+    <Style id="67"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adcebc8a</color><fill>1</fill></PolyStyle></Style>
+    <Style id="69"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc2ad4f</color><fill>1</fill></PolyStyle></Style>
+    <Style id="72"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adbe7da8</color><fill>1</fill></PolyStyle></Style>
+    <Style id="73"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad9771be</color><fill>1</fill></PolyStyle></Style>
+    <Style id="75"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ada9b656</color><fill>1</fill></PolyStyle></Style>
+    <Style id="76"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc48286</color><fill>1</fill></PolyStyle></Style>
+    <Style id="77"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adb2cc92</color><fill>1</fill></PolyStyle></Style>
+    <Style id="78"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad54b991</color><fill>1</fill></PolyStyle></Style>
+    <Style id="81"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad617dac</color><fill>1</fill></PolyStyle></Style>
+    <Style id="82"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc1b847</color><fill>1</fill></PolyStyle></Style>
+    <Style id="84"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad8bcab7</color><fill>1</fill></PolyStyle></Style>
+    <Style id="85"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc08755</color><fill>1</fill></PolyStyle></Style>
+    <Style id="86"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad8068c0</color><fill>1</fill></PolyStyle></Style>
+    <Style id="87"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc4c76b</color><fill>1</fill></PolyStyle></Style>
+    <Style id="88"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc3b27a</color><fill>1</fill></PolyStyle></Style>
+    <Style id="89"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad70bfaf</color><fill>1</fill></PolyStyle></Style>
+    <Style id="90"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad90c580</color><fill>1</fill></PolyStyle></Style>
+    <Style id="91"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>add589a9</color><fill>1</fill></PolyStyle></Style>
+    <Style id="92"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc1ac7c</color><fill>1</fill></PolyStyle></Style>
+    <Style id="93"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad8593be</color><fill>1</fill></PolyStyle></Style>
+    <Style id="94"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ada959b0</color><fill>1</fill></PolyStyle></Style>
+    <Style id="95"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ada659be</color><fill>1</fill></PolyStyle></Style>
+    <Style id="96"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adbf76cc</color><fill>1</fill></PolyStyle></Style>
+    <Style id="97"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad6fc775</color><fill>1</fill></PolyStyle></Style>
+    <Style id="98"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad4581bd</color><fill>1</fill></PolyStyle></Style>
+    <Style id="99"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad6980cc</color><fill>1</fill></PolyStyle></Style>
+    <Style id="100"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc85c86</color><fill>1</fill></PolyStyle></Style>
+    <Style id="101"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adaf51a6</color><fill>1</fill></PolyStyle></Style>
+    <Style id="103"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adcc9c98</color><fill>1</fill></PolyStyle></Style>
+    <Style id="104"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad5c53b8</color><fill>1</fill></PolyStyle></Style>
+    <Style id="105"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adae51b4</color><fill>1</fill></PolyStyle></Style>
+    <Style id="106"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc56db5</color><fill>1</fill></PolyStyle></Style>
+    <Style id="107"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adceaa7f</color><fill>1</fill></PolyStyle></Style>
+    <Style id="108"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adb9856d</color><fill>1</fill></PolyStyle></Style>
+    <Style id="109"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad4fbf9d</color><fill>1</fill></PolyStyle></Style>
+    <Style id="110"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad938dd2</color><fill>1</fill></PolyStyle></Style>
+    <Style id="111"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adbdc36a</color><fill>1</fill></PolyStyle></Style>
+    <Style id="113"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>add092c9</color><fill>1</fill></PolyStyle></Style>
+    <Style id="114"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad8ac070</color><fill>1</fill></PolyStyle></Style>
+    <Style id="115"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad5db56f</color><fill>1</fill></PolyStyle></Style>
+    <Style id="116"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adbb72ca</color><fill>1</fill></PolyStyle></Style>
+    <Style id="117"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad9a55c1</color><fill>1</fill></PolyStyle></Style>
+    <Style id="118"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad6c77c0</color><fill>1</fill></PolyStyle></Style>
+    <Style id="119"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc3a55b</color><fill>1</fill></PolyStyle></Style>
+    <Style id="120"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad8cc9ba</color><fill>1</fill></PolyStyle></Style>
+    <Style id="121"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>add17976</color><fill>1</fill></PolyStyle></Style>
+    <Style id="122"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc87bd1</color><fill>1</fill></PolyStyle></Style>
+    <Style id="124"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adb15da6</color><fill>1</fill></PolyStyle></Style>
+    <Style id="125"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adb14fab</color><fill>1</fill></PolyStyle></Style>
+    <Style id="126"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad80cf8c</color><fill>1</fill></PolyStyle></Style>
+    <Style id="133"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc6a380</color><fill>1</fill></PolyStyle></Style>
+    <Style id="134"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad97c587</color><fill>1</fill></PolyStyle></Style>
+    <Style id="135"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad987fcd</color><fill>1</fill></PolyStyle></Style>
+    <Style id="138"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adb195cc</color><fill>1</fill></PolyStyle></Style>
+    <Style id="140"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ada2c362</color><fill>1</fill></PolyStyle></Style>
+    <Style id="142"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adcfbc8a</color><fill>1</fill></PolyStyle></Style>
+    <Style id="143"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad8abb77</color><fill>1</fill></PolyStyle></Style>
+    <Style id="144"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad72b5c9</color><fill>1</fill></PolyStyle></Style>
+    <Style id="145"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad6174c5</color><fill>1</fill></PolyStyle></Style>
+    <Style id="146"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad9eb161</color><fill>1</fill></PolyStyle></Style>
+    <Style id="147"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad6bb177</color><fill>1</fill></PolyStyle></Style>
+    <Style id="148"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc371a1</color><fill>1</fill></PolyStyle></Style>
+    <Style id="149"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad6ebba9</color><fill>1</fill></PolyStyle></Style>
+    <Style id="150"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad74c08e</color><fill>1</fill></PolyStyle></Style>
+    <Style id="151"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adac7e57</color><fill>1</fill></PolyStyle></Style>
+    <Style id="152"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad4d91c0</color><fill>1</fill></PolyStyle></Style>
+    <Style id="153"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adbe82a8</color><fill>1</fill></PolyStyle></Style>
+    <Style id="154"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad47b9b6</color><fill>1</fill></PolyStyle></Style>
+    <Style id="155"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adad9d5b</color><fill>1</fill></PolyStyle></Style>
+    <Style id="156"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad87c456</color><fill>1</fill></PolyStyle></Style>
+    <Style id="157"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad48c097</color><fill>1</fill></PolyStyle></Style>
+    <Style id="158"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad6bcda7</color><fill>1</fill></PolyStyle></Style>
+    <Style id="159"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad89bfcc</color><fill>1</fill></PolyStyle></Style>
+    <Style id="160"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adaeb452</color><fill>1</fill></PolyStyle></Style>
+    <Style id="161"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad99b359</color><fill>1</fill></PolyStyle></Style>
+    <Style id="162"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad7dbf44</color><fill>1</fill></PolyStyle></Style>
+    <Style id="163"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adceb493</color><fill>1</fill></PolyStyle></Style>
+    <Style id="164"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad7093b6</color><fill>1</fill></PolyStyle></Style>
+    <Style id="165"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc17274</color><fill>1</fill></PolyStyle></Style>
+    <Style id="166"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad8cd7b4</color><fill>1</fill></PolyStyle></Style>
+    <Style id="167"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad6851ba</color><fill>1</fill></PolyStyle></Style>
+    <Style id="168"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adb0d68c</color><fill>1</fill></PolyStyle></Style>
+    <Style id="169"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad75be74</color><fill>1</fill></PolyStyle></Style>
+    <Style id="170"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adcacb7d</color><fill>1</fill></PolyStyle></Style>
+    <Style id="171"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad4fb784</color><fill>1</fill></PolyStyle></Style>
+    <Style id="172"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adbc98c8</color><fill>1</fill></PolyStyle></Style>
+    <Style id="173"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc5a159</color><fill>1</fill></PolyStyle></Style>
+    <Style id="174"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adb072bd</color><fill>1</fill></PolyStyle></Style>
+    <Style id="175"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad5eaa6f</color><fill>1</fill></PolyStyle></Style>
+    <Style id="176"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad9081d0</color><fill>1</fill></PolyStyle></Style>
+    <Style id="177"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ada5c178</color><fill>1</fill></PolyStyle></Style>
+    <Style id="178"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>add48fa7</color><fill>1</fill></PolyStyle></Style>
+    <Style id="179"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adcb94b3</color><fill>1</fill></PolyStyle></Style>
+    <Style id="180"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad5266b9</color><fill>1</fill></PolyStyle></Style>
+    <Style id="181"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad84d0d3</color><fill>1</fill></PolyStyle></Style>
+    <Style id="182"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad9bbe46</color><fill>1</fill></PolyStyle></Style>
+    <Style id="183"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad7bd2b4</color><fill>1</fill></PolyStyle></Style>
+    <Style id="184"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad75c28e</color><fill>1</fill></PolyStyle></Style>
+    <Style id="185"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc5a88f</color><fill>1</fill></PolyStyle></Style>
+    <Style id="186"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad63b9bd</color><fill>1</fill></PolyStyle></Style>
+    <Style id="187"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc486a1</color><fill>1</fill></PolyStyle></Style>
+    <Style id="188"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adbdb37c</color><fill>1</fill></PolyStyle></Style>
+    <Style id="189"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc9c37f</color><fill>1</fill></PolyStyle></Style>
+    <Style id="190"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad6dbf6c</color><fill>1</fill></PolyStyle></Style>
+    <Style id="191"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad89cd8e</color><fill>1</fill></PolyStyle></Style>
+    <Style id="192"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc7b586</color><fill>1</fill></PolyStyle></Style>
+    <Style id="193"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc16983</color><fill>1</fill></PolyStyle></Style>
+    <Style id="194"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adac6164</color><fill>1</fill></PolyStyle></Style>
+    <Style id="195"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad5e74c1</color><fill>1</fill></PolyStyle></Style>
+    <Style id="196"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad68bf8d</color><fill>1</fill></PolyStyle></Style>
+    <Style id="197"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adbe70cf</color><fill>1</fill></PolyStyle></Style>
+    <Style id="198"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad7288cf</color><fill>1</fill></PolyStyle></Style>
+    <Style id="199"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad7986c4</color><fill>1</fill></PolyStyle></Style>
+    <Style id="200"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad8f90cd</color><fill>1</fill></PolyStyle></Style>
+    <Style id="201"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>add2cd91</color><fill>1</fill></PolyStyle></Style>
+    <Style id="202"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adca906c</color><fill>1</fill></PolyStyle></Style>
+    <Style id="203"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adb7496b</color><fill>1</fill></PolyStyle></Style>
+    <Style id="204"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad46ba50</color><fill>1</fill></PolyStyle></Style>
+    <Style id="205"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc46a8a</color><fill>1</fill></PolyStyle></Style>
+    <Style id="206"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>add292b3</color><fill>1</fill></PolyStyle></Style>
+    <Style id="207"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad764abb</color><fill>1</fill></PolyStyle></Style>
+    <Style id="208"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adb852ba</color><fill>1</fill></PolyStyle></Style>
+    <Style id="209"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad8ac470</color><fill>1</fill></PolyStyle></Style>
+    <Style id="210"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>add4be88</color><fill>1</fill></PolyStyle></Style>
+    <Style id="211"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc08c6d</color><fill>1</fill></PolyStyle></Style>
+    <Style id="212"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc386a7</color><fill>1</fill></PolyStyle></Style>
+    <Style id="213"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad77c093</color><fill>1</fill></PolyStyle></Style>
+    <Style id="214"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc992cc</color><fill>1</fill></PolyStyle></Style>
+    <Style id="215"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad927fc4</color><fill>1</fill></PolyStyle></Style>
+    <Style id="216"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ada44bbf</color><fill>1</fill></PolyStyle></Style>
+    <Style id="217"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad92cdbb</color><fill>1</fill></PolyStyle></Style>
+    <Style id="218"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad85d183</color><fill>1</fill></PolyStyle></Style>
+    <Style id="220"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adba6db1</color><fill>1</fill></PolyStyle></Style>
+    <Style id="221"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad6fb05c</color><fill>1</fill></PolyStyle></Style>
+    <Style id="222"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adad6271</color><fill>1</fill></PolyStyle></Style>
+    <Style id="223"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad4f57bf</color><fill>1</fill></PolyStyle></Style>
+    <Style id="224"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad86c463</color><fill>1</fill></PolyStyle></Style>
+    <Style id="225"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad8cc16d</color><fill>1</fill></PolyStyle></Style>
+    <Style id="226"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adce848b</color><fill>1</fill></PolyStyle></Style>
+    <Style id="227"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad796dcb</color><fill>1</fill></PolyStyle></Style>
+    <Style id="228"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adba6dac</color><fill>1</fill></PolyStyle></Style>
+    <Style id="229"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adb47174</color><fill>1</fill></PolyStyle></Style>
+    <Style id="230"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adcc8e8e</color><fill>1</fill></PolyStyle></Style>
+    <Style id="231"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad74c8ae</color><fill>1</fill></PolyStyle></Style>
+    <Style id="232"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adcc959e</color><fill>1</fill></PolyStyle></Style>
+    <Style id="233"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adb679c7</color><fill>1</fill></PolyStyle></Style>
+    <Style id="234"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad4f65b0</color><fill>1</fill></PolyStyle></Style>
+    <Style id="235"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad8e9ecf</color><fill>1</fill></PolyStyle></Style>
+    <Style id="236"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad72b55e</color><fill>1</fill></PolyStyle></Style>
+    <Style id="237"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad84c9be</color><fill>1</fill></PolyStyle></Style>
+    <Style id="238"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad8bc7be</color><fill>1</fill></PolyStyle></Style>
+    <Style id="239"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adb1864f</color><fill>1</fill></PolyStyle></Style>
+    <Style id="240"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad8687c4</color><fill>1</fill></PolyStyle></Style>
+    <Style id="241"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad9496cd</color><fill>1</fill></PolyStyle></Style>
+    <Style id="242"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad7398b7</color><fill>1</fill></PolyStyle></Style>
+    <Style id="243"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc87cc5</color><fill>1</fill></PolyStyle></Style>
+    <Style id="244"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad7aadcb</color><fill>1</fill></PolyStyle></Style>
+    <Style id="245"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad6479b6</color><fill>1</fill></PolyStyle></Style>
+    <Style id="246"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adaeb36f</color><fill>1</fill></PolyStyle></Style>
+    <Style id="247"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc085d6</color><fill>1</fill></PolyStyle></Style>
+    <Style id="248"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad8dcb7f</color><fill>1</fill></PolyStyle></Style>
+    <Style id="249"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad68b996</color><fill>1</fill></PolyStyle></Style>
+    <Style id="250"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad89c674</color><fill>1</fill></PolyStyle></Style>
+    <Style id="251"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adae68a6</color><fill>1</fill></PolyStyle></Style>
+    <Style id="252"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad5bac87</color><fill>1</fill></PolyStyle></Style>
+    <Style id="253"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adaad288</color><fill>1</fill></PolyStyle></Style>
+    <Style id="254"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adad6a62</color><fill>1</fill></PolyStyle></Style>
+    <Style id="255"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad6ec14e</color><fill>1</fill></PolyStyle></Style>
+    <Style id="256"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad965ac4</color><fill>1</fill></PolyStyle></Style>
+    <Style id="257"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad5fbb57</color><fill>1</fill></PolyStyle></Style>
+    <Style id="258"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adb6745d</color><fill>1</fill></PolyStyle></Style>
+    <Style id="259"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ada87cd3</color><fill>1</fill></PolyStyle></Style>
+    <Style id="260"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad89a7c6</color><fill>1</fill></PolyStyle></Style>
+    <Style id="261"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adbdb057</color><fill>1</fill></PolyStyle></Style>
+    <Style id="262"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad89cf97</color><fill>1</fill></PolyStyle></Style>
+    <Style id="263"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adb6ae71</color><fill>1</fill></PolyStyle></Style>
+    <Style id="264"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad8db0c4</color><fill>1</fill></PolyStyle></Style>
+    <Style id="265"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad88aec3</color><fill>1</fill></PolyStyle></Style>
+    <Style id="266"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc0b649</color><fill>1</fill></PolyStyle></Style>
+    <Style id="267"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad8a5faf</color><fill>1</fill></PolyStyle></Style>
+    <Style id="268"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc09f57</color><fill>1</fill></PolyStyle></Style>
+    <Style id="269"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad7db75a</color><fill>1</fill></PolyStyle></Style>
+    <Style id="270"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adcf6fac</color><fill>1</fill></PolyStyle></Style>
+    <Style id="271"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adcf7b7c</color><fill>1</fill></PolyStyle></Style>
+    <Style id="272"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adb47ccd</color><fill>1</fill></PolyStyle></Style>
+    <Style id="273"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adcba597</color><fill>1</fill></PolyStyle></Style>
+    <Style id="274"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad8cd092</color><fill>1</fill></PolyStyle></Style>
+    <Style id="275"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adae5294</color><fill>1</fill></PolyStyle></Style>
+    <Style id="276"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adaad078</color><fill>1</fill></PolyStyle></Style>
+    <Style id="277"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad4661bd</color><fill>1</fill></PolyStyle></Style>
+    <Style id="278"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ada5bf5a</color><fill>1</fill></PolyStyle></Style>
+    <Style id="279"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adbb7883</color><fill>1</fill></PolyStyle></Style>
+    <Style id="280"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad5dc6b4</color><fill>1</fill></PolyStyle></Style>
+    <Style id="281"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad80c877</color><fill>1</fill></PolyStyle></Style>
+    <Style id="282"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc982bc</color><fill>1</fill></PolyStyle></Style>
+    <Style id="283"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad7fb975</color><fill>1</fill></PolyStyle></Style>
+    <Style id="284"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adb07dbc</color><fill>1</fill></PolyStyle></Style>
+    <Style id="285"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad93af52</color><fill>1</fill></PolyStyle></Style>
+    <Style id="286"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad558fbd</color><fill>1</fill></PolyStyle></Style>
+    <Style id="287"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad8dd0ce</color><fill>1</fill></PolyStyle></Style>
+    <Style id="288"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adb06783</color><fill>1</fill></PolyStyle></Style>
+    <Style id="289"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ad5b6cba</color><fill>1</fill></PolyStyle></Style>
+    <Style id="290"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adc36190</color><fill>1</fill></PolyStyle></Style>
+    <Style id="291"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>adbc6a45</color><fill>1</fill></PolyStyle></Style>
+<Style id="default"><LineStyle><color>cc000000</color><width>1.5</width></LineStyle><PolyStyle><color>ab636363</color><fill>1</fill></PolyStyle></Style>
+    <Placemark id="55178">
+      <name>1</name>
+      <styleUrl>#143</styleUrl>
+      <ExtendedData>
+        <Data name="group"><displayName>Группа полей</displayName><value>КХ Васильцов</value></Data>
+        <Data name="name"><displayName>Имя</displayName><value>1</value></Data>
+        <Data name="is_active"><displayName>используется</displayName><value>1</value></Data>
+        <Data name="adm_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="subad_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="locality"><displayName>Место</displayName><value></value></Data>
+        <Data name="mapp_area"><displayName>Расчетная площадь</displayName><value>27.09</value></Data>
+        <Data name="legl_area"><displayName>Официальная площадь</displayName><value>27.09</value></Data>
+        <Data name="till_area"><displayName>Обрабатываемая площадь</displayName><value>27.0</value></Data>
+        <Data name="desc"><displayName>Описание</displayName><value></value></Data>
+        <Data name="variety"><displayName>Сорт</displayName><value></value></Data>
+        <Data name="product"><displayName>Урожайность</displayName><value></value></Data>
+        <Data name="sow_date"><displayName>Дата сева</displayName><value></value></Data>
+        <Data name="harv_date"><displayName>Дата уборки</displayName><value></value></Data>
+        <Data name="crop"><displayName>Культура</displayName><value>Озимые</value></Data>
+        <Data name="crop_short"><displayName>Короткое название</displayName><value></value></Data>
+      </ExtendedData>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing><coordinates>
+81.63440225703977,52.742504589966735
+81.63835729520527,52.740645458944385
+81.63850637646648,52.74055776408484
+81.63845375955076,52.740452530253386
+81.63806790216876,52.74025083207643
+81.63622631011832,52.73948788679839
+81.63525289717737,52.738944178669215
+81.63327099335166,52.73801461315804
+81.63301667825897,52.73794445727041
+81.63279744111011,52.73795322675636
+81.6314118623293,52.73867232460463
+81.6273866682762,52.74057530305675
+81.62725512598688,52.74073315380393
+81.62722881752902,52.74089100455111
+81.62753574953743,52.74129440090502
+81.62883363345868,52.742346739219556
+81.63026305966925,52.74338153856218
+81.63127155055402,52.74398663309304
+81.63168371639388,52.74414448384022
+81.6320257263461,52.74402171103686
+81.63284128853986,52.74346046393577
+81.63309560363254,52.74315353192736
+81.63440225703977,52.742504589966735
+</coordinates></LinearRing></outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+    </Placemark>
+    <Placemark id="55168">
+      <name>10</name>
+      <styleUrl>#default</styleUrl>
+      <ExtendedData>
+        <Data name="group"><displayName>Группа полей</displayName><value>КХ Васильцов</value></Data>
+        <Data name="name"><displayName>Имя</displayName><value>10</value></Data>
+        <Data name="is_active"><displayName>используется</displayName><value>1</value></Data>
+        <Data name="adm_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="subad_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="locality"><displayName>Место</displayName><value></value></Data>
+        <Data name="mapp_area"><displayName>Расчетная площадь</displayName><value>102.26</value></Data>
+        <Data name="legl_area"><displayName>Официальная площадь</displayName><value>102.26</value></Data>
+        <Data name="till_area"><displayName>Обрабатываемая площадь</displayName><value>100.0</value></Data>
+        <Data name="desc"><displayName>Описание</displayName><value></value></Data>
+        <Data name="variety"><displayName>Сорт</displayName><value></value></Data>
+        <Data name="product"><displayName>Урожайность</displayName><value></value></Data>
+        <Data name="sow_date"><displayName>Дата сева</displayName><value></value></Data>
+        <Data name="harv_date"><displayName>Дата уборки</displayName><value></value></Data>
+        <Data name="crop"><displayName>Культура</displayName><value></value></Data>
+        <Data name="crop_short"><displayName>Короткое название</displayName><value></value></Data>
+      </ExtendedData>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing><coordinates>
+81.68317008721753,52.830884134728564
+81.68708630306367,52.82788265543043
+81.68672123189666,52.82712633091938
+81.6844003650368,52.82544271162904
+81.68319733748066,52.82473885766511
+81.68092960386322,52.82630583753388
+81.68089731505725,52.82675139279367
+81.67365982727239,52.83243542847485
+81.65910758083075,52.84328387969995
+81.65901724891759,52.84342327236173
+81.664202224651,52.84500750655683
+81.66450849992013,52.84509667345011
+81.66470661782847,52.84507971905458
+81.66502972650225,52.84480634341526
+81.68275225601198,52.83090370631921
+81.68297717324026,52.83077026616471
+81.68317008721753,52.830884134728564
+</coordinates></LinearRing></outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+    </Placemark>
+    <Placemark id="55181">
+      <name>11</name>
+      <styleUrl>#default</styleUrl>
+      <ExtendedData>
+        <Data name="group"><displayName>Группа полей</displayName><value>КХ Васильцов</value></Data>
+        <Data name="name"><displayName>Имя</displayName><value>11</value></Data>
+        <Data name="is_active"><displayName>используется</displayName><value>1</value></Data>
+        <Data name="adm_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="subad_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="locality"><displayName>Место</displayName><value></value></Data>
+        <Data name="mapp_area"><displayName>Расчетная площадь</displayName><value>99.16</value></Data>
+        <Data name="legl_area"><displayName>Официальная площадь</displayName><value>99.16</value></Data>
+        <Data name="till_area"><displayName>Обрабатываемая площадь</displayName><value>100.0</value></Data>
+        <Data name="desc"><displayName>Описание</displayName><value></value></Data>
+        <Data name="variety"><displayName>Сорт</displayName><value></value></Data>
+        <Data name="product"><displayName>Урожайность</displayName><value></value></Data>
+        <Data name="sow_date"><displayName>Дата сева</displayName><value></value></Data>
+        <Data name="harv_date"><displayName>Дата уборки</displayName><value></value></Data>
+        <Data name="crop"><displayName>Культура</displayName><value></value></Data>
+        <Data name="crop_short"><displayName>Короткое название</displayName><value></value></Data>
+      </ExtendedData>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing><coordinates>
+81.68708630306367,52.82788265543043
+81.68317008721753,52.830884134728564
+81.68318236933362,52.83089138431691
+81.665197263582,52.84494511990125
+81.66473743616498,52.84522310201109
+81.66495400349781,52.84533065909251
+81.67020300116938,52.84701550605146
+81.67057471320348,52.84696113876088
+81.69074417075831,52.83146771091605
+81.69072008374093,52.83117207254265
+81.68900779660845,52.8307155508516
+81.68857013479938,52.83040418430432
+81.68730265228245,52.82918880310313
+81.6872944301784,52.82831383612204
+81.68708630306367,52.82788265543043
+</coordinates></LinearRing></outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+    </Placemark>
+    <Placemark id="55169">
+      <name>12</name>
+      <styleUrl>#14</styleUrl>
+      <ExtendedData>
+        <Data name="group"><displayName>Группа полей</displayName><value>КХ Васильцов</value></Data>
+        <Data name="name"><displayName>Имя</displayName><value>12</value></Data>
+        <Data name="is_active"><displayName>используется</displayName><value>1</value></Data>
+        <Data name="adm_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="subad_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="locality"><displayName>Место</displayName><value></value></Data>
+        <Data name="mapp_area"><displayName>Расчетная площадь</displayName><value>145.09</value></Data>
+        <Data name="legl_area"><displayName>Официальная площадь</displayName><value>145.09</value></Data>
+        <Data name="till_area"><displayName>Обрабатываемая площадь</displayName><value>149.0</value></Data>
+        <Data name="desc"><displayName>Описание</displayName><value></value></Data>
+        <Data name="variety"><displayName>Сорт</displayName><value></value></Data>
+        <Data name="product"><displayName>Урожайность</displayName><value></value></Data>
+        <Data name="sow_date"><displayName>Дата сева</displayName><value></value></Data>
+        <Data name="harv_date"><displayName>Дата уборки</displayName><value></value></Data>
+        <Data name="crop"><displayName>Культура</displayName><value>Лен</value></Data>
+        <Data name="crop_short"><displayName>Короткое название</displayName><value></value></Data>
+      </ExtendedData>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing><coordinates>
+81.61952047253034,52.83296312475902
+81.60726279204314,52.84206997290968
+81.60724883134131,52.84220777180175
+81.60744451091057,52.84228499579753
+81.61842484482247,52.84718846253801
+81.61868155662857,52.84722561528938
+81.6189209810636,52.84715181882264
+81.63332139904185,52.83602314398349
+81.63346849493453,52.83574509245707
+81.63336029878903,52.83550357086813
+81.63307441842694,52.83532744437756
+81.63101600153465,52.83462422007662
+81.62627911947659,52.83335592266742
+81.62164547162124,52.83189465532362
+81.6212478919636,52.83172151498656
+81.6211063514027,52.83164797817896
+81.61952047253034,52.83296312475902
+</coordinates></LinearRing></outerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.62000758153218,52.83801538430727
+81.62066737584314,52.83783288800849
+81.62100429208705,52.837804811654834
+81.62118678838583,52.83804346066093
+81.62121486473949,52.838296147843856
+81.62094813937973,52.838450567788975
+81.62054103225168,52.83863306408776
+81.6200637342395,52.838689216795075
+81.6197829707029,52.83853479684995
+81.61982508523339,52.83833826237434
+81.62000758153218,52.83801538430727
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.61850549661145,52.837650391709715
+81.61870203108705,52.83783288800849
+81.61865991655657,52.8380294224841
+81.61846338208096,52.83811365154507
+81.61821069489804,52.838085575191414
+81.61807031312973,52.83790307889264
+81.61798608406876,52.83758020082556
+81.61818261854438,52.837411742703615
+81.61850549661145,52.837650391709715
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.61767724417852,52.83720117005118
+81.61729821340414,52.83721520822801
+81.61721398434317,52.83700463557557
+81.61756493876389,52.83686425380728
+81.61778954959316,52.836892330160936
+81.61767724417852,52.83720117005118
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.62201504081875,52.8390401712158
+81.62253445336142,52.839208629337755
+81.62294156048948,52.839489392874334
+81.62320828584923,52.83943324016702
+81.6235311639163,52.83915247663044
+81.62378385109923,52.839068247569465
+81.62399442375167,52.839208629337755
+81.62388211833704,52.83960169828897
+81.62368558386142,52.83991053817921
+81.62322232402606,52.839980729063356
+81.62303982772728,52.839840347295066
+81.62282925507485,52.839840347295066
+81.62236599523948,52.839854385471895
+81.62193081175778,52.83991053817921
+81.62165004822118,52.83975611823409
+81.62148159009924,52.839349011106044
+81.62148159009924,52.839082285746294
+81.62174831545899,52.83901209486214
+81.62201504081875,52.8390401712158
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.62440153087971,52.83960169828897
+81.62464017988582,52.839728041880434
+81.62464017988582,52.83992457635604
+81.62445768358702,52.83999476724019
+81.6242049964041,52.83996669088653
+81.62403653828216,52.83974208005726
+81.62440153087971,52.83960169828897
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.62827606768457,52.8353340925329
+81.62866913663579,52.83522178711826
+81.62882355658091,52.835249863471915
+81.62890778564189,52.83537620706338
+81.62889374746506,52.83555870336216
+81.62865509845896,52.83568504695362
+81.62821991497725,52.83574119966094
+81.62796722779433,52.83567100877679
+81.62799530414799,52.83544639794753
+81.62827606768457,52.8353340925329
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.62827606768457,52.83480064181338
+81.62781280784921,52.83503929081948
+81.62753204431263,52.83505332899631
+81.6275180061358,52.83480064181338
+81.62781280784921,52.83456199280729
+81.6281918386236,52.83432334380119
+81.62866913663579,52.83430930562436
+81.62882355658091,52.834365458331675
+81.62878144205042,52.83454795463046
+81.62827606768457,52.83480064181338
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.63052217597725,52.83515159623411
+81.63074678680651,52.834758527282894
+81.63097139763578,52.83477256545972
+81.631364466587,52.83482871816704
+81.6317996500687,52.834969099935336
+81.63201022272114,52.83530601617923
+81.63182772642236,52.835769276014595
+81.63118197028822,52.836134268612156
+81.63076082498334,52.836260612203624
+81.6304519850931,52.836148306788985
+81.63024141244067,52.83590965778289
+81.63052217597725,52.83515159623411
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.62000758153218,52.84450102200236
+81.6201620014773,52.84464140377065
+81.62003565788584,52.844851976423094
+81.6195864362273,52.84486601459992
+81.62000758153218,52.84450102200236
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.62350308756264,52.83606407772801
+81.62325040037972,52.835923695959714
+81.62320828584923,52.83567100877679
+81.62355924026996,52.835544665185324
+81.62379788927606,52.835614856069476
+81.62385404198338,52.8358675432524
+81.62385404198338,52.83593773413654
+81.62350308756264,52.83606407772801
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.62318020949557,52.83459006916094
+81.62284329325168,52.83463218369143
+81.62254849153825,52.83453391645362
+81.62270291148337,52.83426719109387
+81.6229977131968,52.8341829620329
+81.6231942476724,52.834239114740214
+81.62318020949557,52.83459006916094
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.62456998900166,52.83773462077068
+81.62469633259313,52.83804346066093
+81.62448575994068,52.838225956959704
+81.62414884369679,52.83816980425239
+81.62393827104435,52.838057498837756
+81.6240084619285,52.83777673530117
+81.6242049964041,52.837678468063366
+81.62456998900166,52.83773462077068
+</coordinates></LinearRing></innerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+    </Placemark>
+    <Placemark id="55172">
+      <name>13</name>
+      <styleUrl>#143</styleUrl>
+      <ExtendedData>
+        <Data name="group"><displayName>Группа полей</displayName><value>КХ Васильцов</value></Data>
+        <Data name="name"><displayName>Имя</displayName><value>13</value></Data>
+        <Data name="is_active"><displayName>используется</displayName><value>1</value></Data>
+        <Data name="adm_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="subad_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="locality"><displayName>Место</displayName><value></value></Data>
+        <Data name="mapp_area"><displayName>Расчетная площадь</displayName><value>207.77</value></Data>
+        <Data name="legl_area"><displayName>Официальная площадь</displayName><value>207.77</value></Data>
+        <Data name="till_area"><displayName>Обрабатываемая площадь</displayName><value>208.0</value></Data>
+        <Data name="desc"><displayName>Описание</displayName><value></value></Data>
+        <Data name="variety"><displayName>Сорт</displayName><value></value></Data>
+        <Data name="product"><displayName>Урожайность</displayName><value></value></Data>
+        <Data name="sow_date"><displayName>Дата сева</displayName><value></value></Data>
+        <Data name="harv_date"><displayName>Дата уборки</displayName><value></value></Data>
+        <Data name="crop"><displayName>Культура</displayName><value>Озимые</value></Data>
+        <Data name="crop_short"><displayName>Короткое название</displayName><value></value></Data>
+      </ExtendedData>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing><coordinates>
+81.55907782043641,52.81912253461648
+81.5535855333065,52.82393525529135
+81.55299240402425,52.82427479877
+81.55236019429107,52.82435936898168
+81.55171718517278,52.82486880318693
+81.55125625724075,52.82561179916163
+81.54996750037745,52.82675712036524
+81.54892501297908,52.82741340214528
+81.54733157536708,52.82874095536652
+81.54679093375945,52.82933033309378
+81.54679176254106,52.82955203273964
+81.55406411112877,52.83397366158838
+81.55440124537719,52.83399823193197
+81.55463939622202,52.83379209406564
+81.5765718619933,52.81774833892183
+81.57639845623116,52.81763895528484
+81.57554112086997,52.8180753515687
+81.57498561262537,52.81821285279142
+81.5743292041402,52.81814621848274
+81.57373868036649,52.81821486828786
+81.57305472256171,52.81863582511298
+81.57255540602573,52.81877372167307
+81.57215586867065,52.81849616062249
+81.57211666853375,52.81811302951815
+81.57173965088985,52.81768354930328
+81.57131890557893,52.81742372813612
+81.57124874750792,52.81709168088488
+81.57182317001546,52.81672810030888
+81.57228265965131,52.8164440584462
+81.57214333281178,52.81610097128834
+81.5717868716945,52.81562671650018
+81.57199814199078,52.81545739566101
+81.57231824967276,52.81554700123414
+81.57261748323099,52.81547434254619
+81.57251543883241,52.81507855184117
+81.57257497870125,52.81469091341044
+81.57319358883005,52.814528040143
+81.5734085837663,52.81468655308313
+81.57374592631642,52.81502741603747
+81.57450900199807,52.81544419799238
+81.57535465444347,52.81553373381532
+81.57561567406657,52.81543930152743
+81.57606868765379,52.81513670940716
+81.57694582982762,52.81416438561254
+81.57779504227145,52.81407696011389
+81.57853061248237,52.81424941923638
+81.5791674832202,52.81431182653631
+81.57976122403032,52.81389100370897
+81.58001764159181,52.8136144221268
+81.57981154313497,52.81340357040035
+81.57568273066856,52.8121713074754
+81.57355808012647,52.81131608064094
+81.57028732289069,52.80986043428587
+81.56981891322424,52.80976939012916
+81.56929506262398,52.81020249261725
+81.56865531785252,52.81104794306022
+81.56725057313729,52.81201181152723
+81.55907782043641,52.81912253461648
+</coordinates></LinearRing></outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+    </Placemark>
+    <Placemark id="55171">
+      <name>13А</name>
+      <styleUrl>#14</styleUrl>
+      <ExtendedData>
+        <Data name="group"><displayName>Группа полей</displayName><value>КХ Васильцов</value></Data>
+        <Data name="name"><displayName>Имя</displayName><value>13А</value></Data>
+        <Data name="is_active"><displayName>используется</displayName><value>1</value></Data>
+        <Data name="adm_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="subad_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="locality"><displayName>Место</displayName><value></value></Data>
+        <Data name="mapp_area"><displayName>Расчетная площадь</displayName><value>108.37</value></Data>
+        <Data name="legl_area"><displayName>Официальная площадь</displayName><value>108.37</value></Data>
+        <Data name="till_area"><displayName>Обрабатываемая площадь</displayName><value>100.0</value></Data>
+        <Data name="desc"><displayName>Описание</displayName><value></value></Data>
+        <Data name="variety"><displayName>Сорт</displayName><value></value></Data>
+        <Data name="product"><displayName>Урожайность</displayName><value></value></Data>
+        <Data name="sow_date"><displayName>Дата сева</displayName><value></value></Data>
+        <Data name="harv_date"><displayName>Дата уборки</displayName><value></value></Data>
+        <Data name="crop"><displayName>Культура</displayName><value>Лен</value></Data>
+        <Data name="crop_short"><displayName>Короткое название</displayName><value></value></Data>
+      </ExtendedData>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing><coordinates>
+81.58602253166703,52.81651539710074
+81.58629691678242,52.81627641651636
+81.58500462578748,52.81568727248301
+81.58440046328195,52.81545372213439
+81.58415934098075,52.81558417430199
+81.5840492264756,52.8158161121891
+81.58452980313898,52.81598625431403
+81.58478321079247,52.81622578894839
+81.58432833493242,52.81641327739796
+81.58404867919394,52.81629089835787
+81.58356126437657,52.81622026597763
+81.58330084866385,52.81642680408079
+81.58236436024754,52.81693418072248
+81.58134451274582,52.81706113260811
+81.58090163310841,52.81691908465282
+81.58047598057787,52.81667205887029
+81.58013657465378,52.81641031088126
+81.57976827714897,52.81634141187706
+81.5790806540627,52.81639336921926
+81.57859388115463,52.81655026910247
+81.57799191363814,52.81674104588048
+81.57720161220415,52.81730940233282
+81.55496725598522,52.83365643798932
+81.55456514523125,52.83395883828121
+81.55444040781941,52.83421494293993
+81.55463891593496,52.83439585172645
+81.55799266802774,52.83654657527282
+81.55849377964209,52.83654383502591
+81.55882526189878,52.83645906003825
+81.58571625294034,52.81658049021127
+81.58602253166703,52.81651539710074
+</coordinates></LinearRing></outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+    </Placemark>
+    <Placemark id="55182">
+      <name>13Б</name>
+      <styleUrl>#5</styleUrl>
+      <ExtendedData>
+        <Data name="group"><displayName>Группа полей</displayName><value>КХ Васильцов</value></Data>
+        <Data name="name"><displayName>Имя</displayName><value>13Б</value></Data>
+        <Data name="is_active"><displayName>используется</displayName><value>1</value></Data>
+        <Data name="adm_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="subad_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="locality"><displayName>Место</displayName><value></value></Data>
+        <Data name="mapp_area"><displayName>Расчетная площадь</displayName><value>42.77</value></Data>
+        <Data name="legl_area"><displayName>Официальная площадь</displayName><value>42.77</value></Data>
+        <Data name="till_area"><displayName>Обрабатываемая площадь</displayName><value>80.0</value></Data>
+        <Data name="desc"><displayName>Описание</displayName><value></value></Data>
+        <Data name="variety"><displayName>Сорт</displayName><value></value></Data>
+        <Data name="product"><displayName>Урожайность</displayName><value></value></Data>
+        <Data name="sow_date"><displayName>Дата сева</displayName><value></value></Data>
+        <Data name="harv_date"><displayName>Дата уборки</displayName><value></value></Data>
+        <Data name="crop"><displayName>Культура</displayName><value>Гречиха</value></Data>
+        <Data name="crop_short"><displayName>Короткое название</displayName><value></value></Data>
+      </ExtendedData>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing><coordinates>
+81.58629691678242,52.81627641651636
+81.58602253166703,52.81651539710074
+81.58605195326001,52.81650914415909
+81.58597581280621,52.81670671659146
+81.5592168373444,52.83642930904679
+81.55876761806005,52.83667731584777
+81.5587920382219,52.83690335891902
+81.56032528421511,52.83751566849374
+81.56060385829909,52.83749131338044
+81.58294896703062,52.82096559307959
+81.58798306897438,52.81722999683858
+81.58798704484347,52.81706834625989
+81.58792374817149,52.81687289579524
+81.58642190479355,52.81633339744503
+81.58629691678242,52.81627641651636
+</coordinates></LinearRing></outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+    </Placemark>
+    <Placemark id="55173">
+      <name>14</name>
+      <styleUrl>#default</styleUrl>
+      <ExtendedData>
+        <Data name="group"><displayName>Группа полей</displayName><value>КХ Васильцов</value></Data>
+        <Data name="name"><displayName>Имя</displayName><value>14</value></Data>
+        <Data name="is_active"><displayName>используется</displayName><value>1</value></Data>
+        <Data name="adm_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="subad_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="locality"><displayName>Место</displayName><value></value></Data>
+        <Data name="mapp_area"><displayName>Расчетная площадь</displayName><value>169.9</value></Data>
+        <Data name="legl_area"><displayName>Официальная площадь</displayName><value>169.9</value></Data>
+        <Data name="till_area"><displayName>Обрабатываемая площадь</displayName><value>178.0</value></Data>
+        <Data name="desc"><displayName>Описание</displayName><value></value></Data>
+        <Data name="variety"><displayName>Сорт</displayName><value></value></Data>
+        <Data name="product"><displayName>Урожайность</displayName><value></value></Data>
+        <Data name="sow_date"><displayName>Дата сева</displayName><value></value></Data>
+        <Data name="harv_date"><displayName>Дата уборки</displayName><value></value></Data>
+        <Data name="crop"><displayName>Культура</displayName><value></value></Data>
+        <Data name="crop_short"><displayName>Короткое название</displayName><value></value></Data>
+      </ExtendedData>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing><coordinates>
+81.54081961088953,52.79684569939828
+81.53355555998694,52.80499385788716
+81.53317996594873,52.80509833685551
+81.52386107608275,52.81500002966682
+81.52352759671466,52.81547247335875
+81.52361419721566,52.81584086241964
+81.52865666488924,52.81853081563137
+81.5289159310714,52.8186028570817
+81.52913368348425,52.8185301927822
+81.53860348061222,52.80977518364034
+81.55247222961353,52.79788580184163
+81.55248810195586,52.79771707079945
+81.54402980734777,52.79418393526106
+81.54366090801896,52.79401635547297
+81.54342631273067,52.79404480873953
+81.54081961088953,52.79684569939828
+</coordinates></LinearRing></outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+    </Placemark>
+    <Placemark id="55176">
+      <name>14-1</name>
+      <styleUrl>#default</styleUrl>
+      <ExtendedData>
+        <Data name="group"><displayName>Группа полей</displayName><value>КХ Васильцов</value></Data>
+        <Data name="name"><displayName>Имя</displayName><value>14-1</value></Data>
+        <Data name="is_active"><displayName>используется</displayName><value>1</value></Data>
+        <Data name="adm_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="subad_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="locality"><displayName>Место</displayName><value></value></Data>
+        <Data name="mapp_area"><displayName>Расчетная площадь</displayName><value>108.79</value></Data>
+        <Data name="legl_area"><displayName>Официальная площадь</displayName><value>108.79</value></Data>
+        <Data name="till_area"><displayName>Обрабатываемая площадь</displayName><value>108.79</value></Data>
+        <Data name="desc"><displayName>Описание</displayName><value></value></Data>
+        <Data name="variety"><displayName>Сорт</displayName><value></value></Data>
+        <Data name="product"><displayName>Урожайность</displayName><value></value></Data>
+        <Data name="sow_date"><displayName>Дата сева</displayName><value></value></Data>
+        <Data name="harv_date"><displayName>Дата уборки</displayName><value></value></Data>
+        <Data name="crop"><displayName>Культура</displayName><value></value></Data>
+        <Data name="crop_short"><displayName>Короткое название</displayName><value></value></Data>
+      </ExtendedData>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing><coordinates>
+81.51771973028205,52.8040600387307
+81.51028156765882,52.80951393778164
+81.51018452203363,52.80970874933954
+81.5124690739065,52.81089767048194
+81.51309893782668,52.8111428955196
+81.51334887326799,52.81093168062761
+81.52361289484266,52.8032642977808
+81.523809582227,52.80321816779249
+81.52391835137456,52.80329570030585
+81.52365869522173,52.80362458253038
+81.51346138274103,52.81119558884902
+81.51613769263705,52.81257300817911
+81.51631802283177,52.8126343012661
+81.5269032889307,52.80478814574736
+81.5270401077135,52.80483364012217
+81.52705394518262,52.80493991259304
+81.51666133457688,52.81269064101568
+81.51667341634219,52.8128252673643
+81.51958557558602,52.81398590694249
+81.51984420341911,52.81392314543962
+81.52941038087653,52.80672757496273
+81.52983691649568,52.80648541207673
+81.52988307489414,52.80659118055588
+81.52114379420875,52.81306728479504
+81.51978946440565,52.81409865569722
+81.52286142157313,52.81537349040067
+81.52331983080019,52.81539408215659
+81.53114271883311,52.80714133424549
+81.53112819848555,52.80689991694062
+81.53104474875502,52.80670892764765
+81.52546374025601,52.80375504181487
+81.52178674154841,52.8017828357083
+81.52124411947452,52.80153786973623
+81.52095834822832,52.80156311428189
+81.51771973028205,52.8040600387307
+</coordinates></LinearRing></outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+    </Placemark>
+    <Placemark id="55174">
+      <name>14-2</name>
+      <styleUrl>#default</styleUrl>
+      <ExtendedData>
+        <Data name="group"><displayName>Группа полей</displayName><value>КХ Васильцов</value></Data>
+        <Data name="name"><displayName>Имя</displayName><value>14-2</value></Data>
+        <Data name="is_active"><displayName>используется</displayName><value>1</value></Data>
+        <Data name="adm_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="subad_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="locality"><displayName>Место</displayName><value></value></Data>
+        <Data name="mapp_area"><displayName>Расчетная площадь</displayName><value>76.07</value></Data>
+        <Data name="legl_area"><displayName>Официальная площадь</displayName><value>76.07</value></Data>
+        <Data name="till_area"><displayName>Обрабатываемая площадь</displayName><value>76.07</value></Data>
+        <Data name="desc"><displayName>Описание</displayName><value></value></Data>
+        <Data name="variety"><displayName>Сорт</displayName><value></value></Data>
+        <Data name="product"><displayName>Урожайность</displayName><value></value></Data>
+        <Data name="sow_date"><displayName>Дата сева</displayName><value></value></Data>
+        <Data name="harv_date"><displayName>Дата уборки</displayName><value></value></Data>
+        <Data name="crop"><displayName>Культура</displayName><value></value></Data>
+        <Data name="crop_short"><displayName>Короткое название</displayName><value></value></Data>
+      </ExtendedData>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing><coordinates>
+81.5372173689155,52.79360060971121
+81.5270675922445,52.80095317078495
+81.52452697941038,52.80280263082645
+81.524481235826,52.80293909441278
+81.52460115277992,52.80314656294636
+81.53105019879202,52.80661443049458
+81.5313343840006,52.80672532276692
+81.5316027159689,52.80651393117251
+81.53322921455157,52.80476312582191
+81.54293490268257,52.79391923778921
+81.54291877579179,52.79375150677637
+81.54274054837227,52.79358659881733
+81.54021694377008,52.79226484994916
+81.53972474196087,52.79211403883533
+81.53938979955844,52.79211363812128
+81.53767170011548,52.79339233588633
+81.5372173689155,52.79360060971121
+</coordinates></LinearRing></outerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.52747493896247,52.80340425933487
+81.5319601364594,52.80002807780745
+81.53208648005086,52.799992982365374
+81.53212157549294,52.800070192337934
+81.53047208971552,52.80128449463366
+81.52751705349297,52.80350954566109
+81.52744686260881,52.80346041204219
+81.52747493896247,52.80340425933487
+</coordinates></LinearRing></innerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+    </Placemark>
+    <Placemark id="55175">
+      <name>14-3</name>
+      <styleUrl>#default</styleUrl>
+      <ExtendedData>
+        <Data name="group"><displayName>Группа полей</displayName><value>КХ Васильцов</value></Data>
+        <Data name="name"><displayName>Имя</displayName><value>14-3</value></Data>
+        <Data name="is_active"><displayName>используется</displayName><value>1</value></Data>
+        <Data name="adm_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="subad_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="locality"><displayName>Место</displayName><value></value></Data>
+        <Data name="mapp_area"><displayName>Расчетная площадь</displayName><value>78.1</value></Data>
+        <Data name="legl_area"><displayName>Официальная площадь</displayName><value>78.1</value></Data>
+        <Data name="till_area"><displayName>Обрабатываемая площадь</displayName><value>78.1</value></Data>
+        <Data name="desc"><displayName>Описание</displayName><value></value></Data>
+        <Data name="variety"><displayName>Сорт</displayName><value></value></Data>
+        <Data name="product"><displayName>Урожайность</displayName><value></value></Data>
+        <Data name="sow_date"><displayName>Дата сева</displayName><value></value></Data>
+        <Data name="harv_date"><displayName>Дата уборки</displayName><value></value></Data>
+        <Data name="crop"><displayName>Культура</displayName><value></value></Data>
+        <Data name="crop_short"><displayName>Короткое название</displayName><value></value></Data>
+      </ExtendedData>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing><coordinates>
+81.53299537623428,52.78909859114496
+81.52463822289836,52.79515509710336
+81.51860121166578,52.79957884592129
+81.51839052353316,52.79981824193177
+81.51895227352126,52.80009970014414
+81.52413759333196,52.80285596713015
+81.52440566314417,52.8027696191658
+81.52487323407186,52.80227135145856
+81.53548611997932,52.79459333122537
+81.53588955654195,52.79442949174578
+81.53562477486726,52.79416582489149
+81.53523477523834,52.79378261827489
+81.5352748708739,52.793407052642
+81.53581640661083,52.7927494085617
+81.53624143984185,52.79254010302799
+81.53697999891816,52.79273121000195
+81.53707708700931,52.79273132730576
+81.5377922726027,52.79307439124577
+81.53794531540227,52.79312504057538
+81.53941822359995,52.79203997073723
+81.53939867600222,52.79191693891921
+81.53903861459764,52.79171924202811
+81.5336863555485,52.78860475905078
+81.53343159780644,52.78863398453403
+81.53317929829953,52.78882703986086
+81.53299537623428,52.78909859114496
+</coordinates></LinearRing></outerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.52948941733746,52.7941881962465
+81.52967191363625,52.79432857801479
+81.52969998998991,52.79456722702089
+81.52958768457526,52.79469357061235
+81.52940518827648,52.79473568514284
+81.5290261575021,52.79459530337455
+81.52898404297162,52.79445492160625
+81.52918057744722,52.79424434895382
+81.52918057744722,52.79424434895382
+81.52948941733746,52.7941881962465
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.52977018087405,52.792615920441634
+81.52996671534966,52.79246150049651
+81.53113188402648,52.79219477513676
+81.53163725839234,52.79218073695993
+81.5320584036972,52.792236889667244
+81.53225493817281,52.79243342414285
+81.53214263275818,52.7928405312709
+81.53197417463623,52.79335994381358
+81.53181975469111,52.79368282188065
+81.53132841850208,52.793767050941625
+81.53101957861185,52.79373897458797
+81.53052824242282,52.79319148569163
+81.5300369062338,52.79281245491724
+81.52977018087405,52.792615920441634
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.53238128176427,52.793023027569674
+81.533307801435,52.79233515690505
+81.53347625955696,52.79230708055139
+81.53349029773379,52.79240534778919
+81.53339203049599,52.79262995861846
+81.53249358717892,52.793247638398945
+81.5323953199411,52.793247638398945
+81.53238128176427,52.793023027569674
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.53339203049599,52.793107256630655
+81.53347625955696,52.79279841674041
+81.53385529033135,52.79279841674041
+81.5342202829289,52.79279841674041
+81.53458527552647,52.793008989392845
+81.5346975809411,52.79331782928309
+81.53466950458744,52.79372493641114
+81.5342202829289,52.79407589083187
+81.53363067950208,52.794132043539186
+81.5333499159655,52.79400569994772
+81.53327972508134,52.793753012764796
+81.53339203049599,52.793107256630655
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.53433258834355,52.79177362983188
+81.53448700828866,52.791450751764806
+81.53464142823378,52.79142267541115
+81.53465546641061,52.79157709535627
+81.53454316099598,52.79175959165505
+81.53433258834355,52.79177362983188
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.52194389729176,52.80065277667635
+81.52555170873687,52.798041675786116
+81.52565699506309,52.798041675786116
+81.52564997597467,52.79813994302392
+81.52200004999908,52.8008212347983
+81.52192985911493,52.80077912026781
+81.52194389729176,52.80065277667635
+</coordinates></LinearRing></innerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+    </Placemark>
+    <Placemark id="55164">
+      <name>15</name>
+      <styleUrl>#42</styleUrl>
+      <ExtendedData>
+        <Data name="group"><displayName>Группа полей</displayName><value>КХ Васильцов</value></Data>
+        <Data name="name"><displayName>Имя</displayName><value>15</value></Data>
+        <Data name="is_active"><displayName>используется</displayName><value>1</value></Data>
+        <Data name="adm_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="subad_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="locality"><displayName>Место</displayName><value></value></Data>
+        <Data name="mapp_area"><displayName>Расчетная площадь</displayName><value>110.96</value></Data>
+        <Data name="legl_area"><displayName>Официальная площадь</displayName><value>110.96</value></Data>
+        <Data name="till_area"><displayName>Обрабатываемая площадь</displayName><value>100.0</value></Data>
+        <Data name="desc"><displayName>Описание</displayName><value></value></Data>
+        <Data name="variety"><displayName>Сорт</displayName><value>краснодарская</value></Data>
+        <Data name="product"><displayName>Урожайность</displayName><value></value></Data>
+        <Data name="sow_date"><displayName>Дата сева</displayName><value></value></Data>
+        <Data name="harv_date"><displayName>Дата уборки</displayName><value></value></Data>
+        <Data name="crop"><displayName>Культура</displayName><value>Пшеница озимая</value></Data>
+        <Data name="crop_short"><displayName>Короткое название</displayName><value></value></Data>
+      </ExtendedData>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing><coordinates>
+81.60880437810131,52.75154816677159
+81.6024105956437,52.74522484112636
+81.60129761543959,52.7442214492866
+81.60116152508891,52.74419226123928
+81.60087456370572,52.74427905513244
+81.5978712709105,52.74583860315502
+81.59361077929812,52.74805285086057
+81.59351933743224,52.74815898309092
+81.59351864130055,52.74828199010232
+81.59369350372369,52.74838120672749
+81.59393189236162,52.74838962429439
+81.59416394907878,52.74832356321494
+81.5944921219922,52.74821571884344
+81.59504923100245,52.74819066374603
+81.595443785749,52.74821560826765
+81.59569989211242,52.74837525777347
+81.59584988036141,52.74860385662453
+81.5958676194266,52.7488352432509
+81.59558859381015,52.74929217096437
+81.59489599573975,52.74967166837906
+81.59423501704362,52.75015758695547
+81.59367513981502,52.75051187670918
+81.59353298609494,52.75060182840252
+81.5934787853545,52.75071768685451
+81.59354627489171,52.75112434321943
+81.59343598673296,52.75173260406187
+81.59346491209664,52.75218125900954
+81.59361650610394,52.75242804212613
+81.59524594536724,52.7542653935032
+81.59596494291151,52.75498294707837
+81.59643647557668,52.75584144981132
+81.5976845020725,52.75757612976707
+81.59844955035094,52.75895260619842
+81.59871616341158,52.75908969800131
+81.59889647286056,52.75914757286924
+81.59911920231202,52.75910829866963
+81.59978605810633,52.75887136072981
+81.60341697480425,52.75739459578018
+81.60815897451579,52.75544839358279
+81.60931890040611,52.75497442598496
+81.60949391587344,52.75487724554365
+81.60950784850715,52.75475599275504
+81.60941177062534,52.75457974568237
+81.60890596509294,52.75402381242302
+81.60891294424191,52.75393535657994
+81.60901725693947,52.7538738105367
+81.6095124203224,52.75377054556758
+81.60990985106919,52.75366812929059
+81.61023535532,52.75356476002479
+81.61042295655501,52.75345357231111
+81.6104639510774,52.75325890996462
+81.61044596836939,52.75312508544912
+81.61027439890569,52.75292671999978
+81.60880437810131,52.75154816677159
+</coordinates></LinearRing></outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+    </Placemark>
+    <Placemark id="55165">
+      <name>16</name>
+      <styleUrl>#default</styleUrl>
+      <ExtendedData>
+        <Data name="group"><displayName>Группа полей</displayName><value>КХ Васильцов</value></Data>
+        <Data name="name"><displayName>Имя</displayName><value>16</value></Data>
+        <Data name="is_active"><displayName>используется</displayName><value>1</value></Data>
+        <Data name="adm_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="subad_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="locality"><displayName>Место</displayName><value></value></Data>
+        <Data name="mapp_area"><displayName>Расчетная площадь</displayName><value>183.61</value></Data>
+        <Data name="legl_area"><displayName>Официальная площадь</displayName><value>183.61</value></Data>
+        <Data name="till_area"><displayName>Обрабатываемая площадь</displayName><value>150.0</value></Data>
+        <Data name="desc"><displayName>Описание</displayName><value></value></Data>
+        <Data name="variety"><displayName>Сорт</displayName><value></value></Data>
+        <Data name="product"><displayName>Урожайность</displayName><value></value></Data>
+        <Data name="sow_date"><displayName>Дата сева</displayName><value></value></Data>
+        <Data name="harv_date"><displayName>Дата уборки</displayName><value></value></Data>
+        <Data name="crop"><displayName>Культура</displayName><value></value></Data>
+        <Data name="crop_short"><displayName>Короткое название</displayName><value></value></Data>
+      </ExtendedData>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing><coordinates>
+81.57918773725802,52.73734597517964
+81.57761373524674,52.73819569614208
+81.57548109602584,52.73944220853801
+81.5744479860302,52.74014917806598
+81.57330574934664,52.74111045686394
+81.5729485097992,52.7412129029365
+81.5704887776223,52.74258719715749
+81.56703325961058,52.74495719636307
+81.56692379617392,52.7451185585788
+81.56696743042083,52.74521310345581
+81.57053380743558,52.74706906283625
+81.57081598672579,52.74717754240096
+81.57092387802103,52.74712767903115
+81.57093516362562,52.74658980533074
+81.57109583731085,52.74584422478458
+81.57134628380585,52.74553327329463
+81.5721271249707,52.74516984972746
+81.57270201151043,52.74507882370119
+81.57320363822079,52.74513997630551
+81.5734882851108,52.74536386235143
+81.57362489380527,52.7458047768011
+81.57320800364667,52.74651410524405
+81.57226189145582,52.74732649492086
+81.57206158060843,52.74751089902673
+81.57208522799509,52.74767049672103
+81.5770433316627,52.74994780700668
+81.57772715760926,52.75028845012574
+81.57785281093976,52.75045842401104
+81.57789075317118,52.75066757969739
+81.57768239712586,52.75089564511221
+81.57745950864731,52.75108910765592
+81.57736338734608,52.75130623107383
+81.57752020747105,52.75149825719355
+81.57805197231201,52.75185028629291
+81.57855776394801,52.75204284475068
+81.57899965207486,52.75210917683369
+81.57984240165274,52.75194836572166
+81.58053203309514,52.75163724953343
+81.58127321313113,52.75143237890582
+81.58159511470461,52.75118796907938
+81.58289015212564,52.75011896372882
+81.58416616188144,52.74929552095423
+81.59087507889444,52.74543510888911
+81.59704209440225,52.74164008375406
+81.59717192033318,52.74146919664594
+81.5972779087197,52.74128612497926
+81.59728482438076,52.74118758389626
+81.59385725405996,52.73956182493723
+81.58912951820244,52.73732795271317
+81.58888782089977,52.73730080401832
+81.58857878530202,52.73736542109945
+81.58831533792946,52.73755016512992
+81.58794683998975,52.7379920071719
+81.58768587962265,52.73833358059253
+81.58721521612698,52.73851194728042
+81.58681622705613,52.7384702896725
+81.58622224666273,52.73841614152597
+81.58598717296955,52.73827989946551
+81.58600772758861,52.73811637889565
+81.58579350173811,52.73780644345455
+81.58550036288604,52.73739268129265
+81.58499021385563,52.73675217890578
+81.5833767948751,52.73571907268141
+81.58294417812346,52.73546219285304
+81.58272008993539,52.73546231433205
+81.57918773725802,52.73734597517964
+</coordinates></LinearRing></outerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.57428523959946,52.74241540010041
+81.57330256722142,52.742752316344315
+81.57268488744093,52.74255578186871
+81.57255854384947,52.742092522033346
+81.573007765508,52.741601185844324
+81.57349910169702,52.74143272772237
+81.57403255241653,52.74164330037481
+81.57445369772141,52.741980216618714
+81.57428523959946,52.74241540010041
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.5790161051909,52.74200829297237
+81.5786370744165,52.74195214026505
+81.57873534165431,52.74162926219798
+81.5791143724287,52.74161522402115
+81.57932494508114,52.74175560578944
+81.5790161051909,52.74200829297237
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.58130432801406,52.74060447528945
+81.58168335878845,52.74023948269189
+81.58190796961772,52.74029563539921
+81.5818518169104,52.74060447528945
+81.58166932061162,52.74075889523457
+81.58141663342869,52.74071678070408
+81.58130432801406,52.74060447528945
+</coordinates></LinearRing></innerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+    </Placemark>
+    <Placemark id="55166">
+      <name>17</name>
+      <styleUrl>#143</styleUrl>
+      <ExtendedData>
+        <Data name="group"><displayName>Группа полей</displayName><value>КХ Васильцов</value></Data>
+        <Data name="name"><displayName>Имя</displayName><value>17</value></Data>
+        <Data name="is_active"><displayName>используется</displayName><value>1</value></Data>
+        <Data name="adm_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="subad_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="locality"><displayName>Место</displayName><value></value></Data>
+        <Data name="mapp_area"><displayName>Расчетная площадь</displayName><value>100.19</value></Data>
+        <Data name="legl_area"><displayName>Официальная площадь</displayName><value>100.19</value></Data>
+        <Data name="till_area"><displayName>Обрабатываемая площадь</displayName><value>125.0</value></Data>
+        <Data name="desc"><displayName>Описание</displayName><value></value></Data>
+        <Data name="variety"><displayName>Сорт</displayName><value></value></Data>
+        <Data name="product"><displayName>Урожайность</displayName><value></value></Data>
+        <Data name="sow_date"><displayName>Дата сева</displayName><value></value></Data>
+        <Data name="harv_date"><displayName>Дата уборки</displayName><value></value></Data>
+        <Data name="crop"><displayName>Культура</displayName><value>Озимые</value></Data>
+        <Data name="crop_short"><displayName>Короткое название</displayName><value></value></Data>
+      </ExtendedData>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing><coordinates>
+81.57703278225597,52.73608013874232
+81.57033147212216,52.73306275704154
+81.5638416030381,52.73001236039289
+81.56343976028681,52.72989824510989
+81.56332098294105,52.72993818517879
+81.56225038701336,52.73189544348369
+81.56228777220271,52.7321217028408
+81.56269176181361,52.73242068319104
+81.56301048163677,52.73264142906131
+81.56286254402553,52.73290776967906
+81.56254740980535,52.73318765419324
+81.56214307831699,52.73345573177164
+81.56193136661146,52.73357857771186
+81.56177125602326,52.73375568173385
+81.5616767301898,52.73399764328077
+81.56144699170132,52.73408757107163
+81.56118811257075,52.73416083905719
+81.56120585625158,52.73432766097253
+81.56106719608819,52.73500811738011
+81.56118288098936,52.73524171203964
+81.56129939841433,52.73549656244853
+81.56167058856003,52.73558122656707
+81.56190965153553,52.73566564628786
+81.56201392465549,52.73577552780866
+81.56189829674808,52.73594666209907
+81.561642864512,52.73613681216049
+81.56151695398077,52.73642809713026
+81.56161797558897,52.73691171016107
+81.56219981012684,52.7382565523535
+81.56223356311007,52.73884378227414
+81.56216348515112,52.73917161903358
+81.56181270310078,52.7400609836936
+81.5616022571986,52.74059234895525
+81.56175583348865,52.74081077279516
+81.56195755542494,52.74112849556566
+81.56246426576323,52.7417491853794
+81.56370854521172,52.7426378299837
+81.56611456315652,52.74479407762968
+81.56648220081142,52.74502298924614
+81.56672778903189,52.74505463553587
+81.56695615352662,52.74495690911226
+81.57064062114254,52.74246434891604
+81.5706026377198,52.7423973750256
+81.57038191146782,52.7422926801919
+81.56980875195688,52.74203911255024
+81.56911488016603,52.74152796402454
+81.56885910166785,52.74119316933588
+81.56912005413659,52.74078445506468
+81.56964488571589,52.74044589446461
+81.57019986472082,52.74034927599959
+81.57067417493687,52.7404061727922
+81.57098538425426,52.7405371990538
+81.57142047863614,52.74094778474537
+81.57207482499037,52.74146756106146
+81.57219881891534,52.74150346175512
+81.57257387273016,52.74138175353797
+81.57268438660357,52.7412250251626
+81.57272538339187,52.74109572358108
+81.57258920516796,52.74093310852112
+81.57223880413764,52.74076365197028
+81.57201617472715,52.74049015069336
+81.5722157063391,52.7401376860706
+81.57267760080303,52.73993493073936
+81.57326430543245,52.73987501482299
+81.57396235271145,52.73986544882028
+81.5742401545308,52.73990679231446
+81.57453072653328,52.73997171987926
+81.57585316598644,52.73911765454766
+81.57922718461691,52.73729407484449
+81.5792353457478,52.73723564050382
+81.57915965052922,52.73714426144265
+81.5788208029533,52.73694641747895
+81.57703278225597,52.73608013874232
+</coordinates></LinearRing></outerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.56808036544095,52.74146080407603
+81.56712576941655,52.741881949380904
+81.56664847140436,52.74160118584432
+81.56638174604461,52.74118004053944
+81.56664847140436,52.7408712006492
+81.56732230389217,52.740730818880905
+81.56772941102021,52.7407729334114
+81.56799613637996,52.74116600236261
+81.56808036544095,52.74146080407603
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.5756048282214,52.73590168605166
+81.57619443164822,52.73647725130166
+81.57629269888602,52.73685628207605
+81.57606808805676,52.73710896925897
+81.57526791197749,52.73722127467361
+81.5744958122519,52.73698262566751
+81.57312007092263,52.73616841141141
+81.57274104014824,52.73567707522239
+81.57307795639214,52.73517170085654
+81.57376582705677,52.734947090027276
+81.57408870512384,52.73493305185045
+81.57470638490433,52.735255929917514
+81.5756048282214,52.73590168605166
+</coordinates></LinearRing></innerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+    </Placemark>
+    <Placemark id="55167">
+      <name>18</name>
+      <styleUrl>#143</styleUrl>
+      <ExtendedData>
+        <Data name="group"><displayName>Группа полей</displayName><value>КХ Васильцов</value></Data>
+        <Data name="name"><displayName>Имя</displayName><value>18</value></Data>
+        <Data name="is_active"><displayName>используется</displayName><value>1</value></Data>
+        <Data name="adm_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="subad_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="locality"><displayName>Место</displayName><value></value></Data>
+        <Data name="mapp_area"><displayName>Расчетная площадь</displayName><value>94.03</value></Data>
+        <Data name="legl_area"><displayName>Официальная площадь</displayName><value>94.03</value></Data>
+        <Data name="till_area"><displayName>Обрабатываемая площадь</displayName><value>100.0</value></Data>
+        <Data name="desc"><displayName>Описание</displayName><value></value></Data>
+        <Data name="variety"><displayName>Сорт</displayName><value></value></Data>
+        <Data name="product"><displayName>Урожайность</displayName><value></value></Data>
+        <Data name="sow_date"><displayName>Дата сева</displayName><value></value></Data>
+        <Data name="harv_date"><displayName>Дата уборки</displayName><value></value></Data>
+        <Data name="crop"><displayName>Культура</displayName><value>Озимые</value></Data>
+        <Data name="crop_short"><displayName>Короткое название</displayName><value></value></Data>
+      </ExtendedData>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing><coordinates>
+81.5725457555704,52.75339491412174
+81.57598454650277,52.75075854567693
+81.57671632976289,52.75012131303907
+81.57686367291008,52.74998021701318
+81.57675458054935,52.74988192351702
+81.57241152825885,52.74785719611574
+81.57143706804368,52.74753723782967
+81.57075147648273,52.74721723514371
+81.56689898428745,52.74527909544977
+81.56673694725528,52.74527159542799
+81.5665931122989,52.74547769095136
+81.56642760952559,52.74573191155877
+81.56589604736119,52.74586326441052
+81.56478533755534,52.74616071128496
+81.56433565965293,52.7462142756557
+81.56406586383541,52.74621502228813
+81.56390871511181,52.74610170732625
+81.56385453200396,52.74563436824689
+81.56358089454409,52.74474604206937
+81.56324850531291,52.74394971677358
+81.56303996850045,52.74354802495884
+81.56266755247685,52.74344656044907
+81.5622810551746,52.74340264083476
+81.56183615324844,52.74345279049137
+81.56142276169956,52.74361877619612
+81.56128905042353,52.74388458312534
+81.56125941295916,52.74408091242854
+81.56129725291423,52.74431201152494
+81.56126959768794,52.74475347336227
+81.56111044780002,52.74505478708493
+81.56071165022209,52.74524545605378
+81.56015115804784,52.74558408035674
+81.55975054292837,52.74594006209245
+81.55931734648696,52.74663617545395
+81.55896411405367,52.74706115742728
+81.55893066247464,52.74726430824224
+81.55914288892663,52.74754765735822
+81.55974719744242,52.74867492229541
+81.55994057454816,52.74924284471395
+81.56048357815887,52.75027118104779
+81.56052781841849,52.75058017073798
+81.56030551152666,52.75087100601294
+81.55958930590577,52.75112637835472
+81.55913126161869,52.75127558179666
+81.55888758576616,52.75145248019
+81.5583005822035,52.75239956717258
+81.5577220770183,52.75321347116337
+81.55727899399142,52.75413772830061
+81.55715785989196,52.75473899988087
+81.55726088518175,52.75489519213347
+81.55751451120346,52.75499167063649
+81.55810243961707,52.75504215458225
+81.55941426630746,52.75510463499762
+81.5608499027661,52.75516635831728
+81.56124973290059,52.75500733143745
+81.56148423178462,52.75480285127075
+81.56166002005034,52.75472389920927
+81.56183999118045,52.75470675998324
+81.56253521439832,52.75479423541611
+81.56302022106249,52.75471042051176
+81.56377897883847,52.75467630195142
+81.5641913998118,52.75466797334558
+81.56449095053254,52.75481704768819
+81.56481431217959,52.75501114835544
+81.56555917334457,52.75519105132173
+81.56658725635097,52.75518285549891
+81.56748277681322,52.75517455533002
+81.56850615196485,52.7549211438836
+81.56923979271495,52.75457539801104
+81.5694682764586,52.75458410249415
+81.56983353539047,52.75461994557679
+81.57010527828963,52.75476017140633
+81.57064849336697,52.75488308813502
+81.57100938256434,52.75485399462602
+81.57130086453313,52.75465570957451
+81.57154573242069,52.75430328499549
+81.57169006775133,52.75387986485325
+81.57194368595556,52.75377498663207
+81.5725457555704,52.75339491412174
+</coordinates></LinearRing></outerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.56448659217266,52.74700588392355
+81.56388295056901,52.747160303868675
+81.56356007250193,52.74709011298452
+81.56347584344095,52.74680934944794
+81.56396717962998,52.74647243320404
+81.56455678305682,52.74638820414307
+81.56476735570925,52.746556662265014
+81.56476735570925,52.746795311271114
+81.56448659217266,52.74700588392355
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.56708365488606,52.74672512038697
+81.56663443322753,52.74665492950282
+81.56667654775802,52.746402242319895
+81.56706961670923,52.74631801325892
+81.56728018936167,52.746542624088185
+81.56708365488606,52.74672512038697
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.56660635687388,52.748086823539396
+81.56677481499582,52.74826931983818
+81.56669058593485,52.7486623887894
+81.56625540245314,52.748971228679636
+81.56565176084949,52.74929410674671
+81.56475331753242,52.74912564862476
+81.5641215995751,52.74890103779549
+81.5635460343251,52.748479892490614
+81.56333546167266,52.74810086171623
+81.56361622520926,52.74773586911867
+81.56409352322144,52.74748318193574
+81.56461293576413,52.747455105582084
+81.56660635687388,52.748086823539396
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.56697134947143,52.75022062641744
+81.56751883836777,52.75016447371012
+81.56768729648972,52.75054350448451
+81.5672942275385,52.75081022984426
+81.56664847140436,52.750894458905236
+81.5663817460446,52.75093657343573
+81.56624136427631,52.75103484067353
+81.56621328792265,52.75131560421011
+81.56615713521533,52.75155425321621
+81.56586233350193,52.751680596807674
+81.56566579902632,52.75144194780158
+81.56558156996535,52.7512594515028
+81.56535695913607,52.7512594515028
+81.56514638648363,52.75118926061865
+81.56516042466046,52.750992726143046
+81.56545522637387,52.750782153490604
+81.56582021897144,52.7506838862528
+81.56615713521533,52.750754077136946
+81.56648001328242,52.75074003896012
+81.56697134947143,52.75022062641744
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.5686840070446,52.75290191819182
+81.56942803041655,52.75267730736255
+81.56970879395313,52.75270538371621
+81.56970879395313,52.75304229996011
+81.56937187770923,52.753435368911326
+81.56837516715434,52.75371613244791
+81.56819267085557,52.75349152161864
+81.56826286173971,52.753084414490594
+81.5686840070446,52.75290191819182
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.5646971648251,52.752298276588164
+81.56475331753242,52.752915956368646
+81.5643602485812,52.75339325438084
+81.56386891239218,52.753575750679616
+81.56351795797144,52.75339325438084
+81.56326527078852,52.75298614725279
+81.56326527078852,52.7525088492406
+81.56343372891047,52.75212981846621
+81.5637846833312,52.75196136034426
+81.56419179045925,52.75194732216743
+81.5646971648251,52.752298276588164
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.56283008730682,52.75215789481987
+81.56271778189218,52.75264923100889
+81.56256336194706,52.7528457654845
+81.56212817846536,52.75288788001499
+81.56170703316047,52.75264923100889
+81.56166491862999,52.752284238411335
+81.56184741492876,52.752045589405235
+81.56235278929462,52.752045589405235
+81.56283008730682,52.75215789481987
+</coordinates></LinearRing></innerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+    </Placemark>
+    <Placemark id="55177">
+      <name>2</name>
+      <styleUrl>#63</styleUrl>
+      <ExtendedData>
+        <Data name="group"><displayName>Группа полей</displayName><value>КХ Васильцов</value></Data>
+        <Data name="name"><displayName>Имя</displayName><value>2</value></Data>
+        <Data name="is_active"><displayName>используется</displayName><value>1</value></Data>
+        <Data name="adm_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="subad_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="locality"><displayName>Место</displayName><value></value></Data>
+        <Data name="mapp_area"><displayName>Расчетная площадь</displayName><value>11.52</value></Data>
+        <Data name="legl_area"><displayName>Официальная площадь</displayName><value>11.52</value></Data>
+        <Data name="till_area"><displayName>Обрабатываемая площадь</displayName><value>12.0</value></Data>
+        <Data name="desc"><displayName>Описание</displayName><value></value></Data>
+        <Data name="variety"><displayName>Сорт</displayName><value></value></Data>
+        <Data name="product"><displayName>Урожайность</displayName><value></value></Data>
+        <Data name="sow_date"><displayName>Дата сева</displayName><value></value></Data>
+        <Data name="harv_date"><displayName>Дата уборки</displayName><value></value></Data>
+        <Data name="crop"><displayName>Культура</displayName><value>Пшеница</value></Data>
+        <Data name="crop_short"><displayName>Короткое название</displayName><value></value></Data>
+      </ExtendedData>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing><coordinates>
+81.63838360366312,52.74122424501738
+81.6345688772729,52.743197379357134
+81.63320960694995,52.743784934916086
+81.63263082087695,52.74389893823349
+81.63208711274778,52.74412694486831
+81.63206080428992,52.74424094818572
+81.63210465171969,52.744363720989085
+81.633007908773,52.74487235117444
+81.63363054227577,52.74529328650026
+81.63398132171395,52.745275747528346
+81.63532305306498,52.74462680556772
+81.63647185572502,52.74416202281213
+81.63685771310703,52.74417956178403
+81.63704187231207,52.74418833126999
+81.63717341460139,52.74417079229808
+81.63742772969407,52.744100636410444
+81.64086536818823,52.74231166127573
+81.64131261197191,52.742066115669004
+81.63996211113492,52.74139963473647
+81.63926055225856,52.74094362146683
+81.63906762356756,52.74083838763538
+81.63883961693274,52.74092608249492
+81.63838360366312,52.74122424501738
+</coordinates></LinearRing></outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+    </Placemark>
+    <Placemark id="55163">
+      <name>3</name>
+      <styleUrl>#63</styleUrl>
+      <ExtendedData>
+        <Data name="group"><displayName>Группа полей</displayName><value>КХ Васильцов</value></Data>
+        <Data name="name"><displayName>Имя</displayName><value>3</value></Data>
+        <Data name="is_active"><displayName>используется</displayName><value>1</value></Data>
+        <Data name="adm_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="subad_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="locality"><displayName>Место</displayName><value></value></Data>
+        <Data name="mapp_area"><displayName>Расчетная площадь</displayName><value>19.17</value></Data>
+        <Data name="legl_area"><displayName>Официальная площадь</displayName><value>19.17</value></Data>
+        <Data name="till_area"><displayName>Обрабатываемая площадь</displayName><value>18.0</value></Data>
+        <Data name="desc"><displayName>Описание</displayName><value></value></Data>
+        <Data name="variety"><displayName>Сорт</displayName><value></value></Data>
+        <Data name="product"><displayName>Урожайность</displayName><value></value></Data>
+        <Data name="sow_date"><displayName>Дата сева</displayName><value></value></Data>
+        <Data name="harv_date"><displayName>Дата уборки</displayName><value></value></Data>
+        <Data name="crop"><displayName>Культура</displayName><value>Пшеница</value></Data>
+        <Data name="crop_short"><displayName>Короткое название</displayName><value></value></Data>
+      </ExtendedData>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing><coordinates>
+81.63901046694569,52.74771410091139
+81.64078266692232,52.74666158401956
+81.64483309431301,52.74467578275817
+81.64497610519105,52.74461806542785
+81.6449882618106,52.74447688543491
+81.64477357631488,52.74429825031346
+81.64332732735015,52.74317719813485
+81.64175370827984,52.74212183558633
+81.64161110057351,52.74209100301771
+81.64148260554438,52.74211643766976
+81.6371939435943,52.74429348817072
+81.63696615604864,52.74453117478139
+81.63661099026459,52.74493909398306
+81.6365417131397,52.7452957718872
+81.63658993140011,52.74556068642202
+81.63684527097884,52.74582826470356
+81.63713564200549,52.74606762544045
+81.63724705522239,52.74630896391841
+81.6374467607642,52.7466513726462
+81.63786950213,52.74718438633922
+81.63829320999707,52.74752809298229
+81.638601028477,52.74768525692901
+81.63884519335923,52.74773175412805
+81.63901046694569,52.74771410091139
+</coordinates></LinearRing></outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+    </Placemark>
+    <Placemark id="55162">
+      <name>4</name>
+      <styleUrl>#63</styleUrl>
+      <ExtendedData>
+        <Data name="group"><displayName>Группа полей</displayName><value>КХ Васильцов</value></Data>
+        <Data name="name"><displayName>Имя</displayName><value>4</value></Data>
+        <Data name="is_active"><displayName>используется</displayName><value>1</value></Data>
+        <Data name="adm_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="subad_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="locality"><displayName>Место</displayName><value></value></Data>
+        <Data name="mapp_area"><displayName>Расчетная площадь</displayName><value>81.52</value></Data>
+        <Data name="legl_area"><displayName>Официальная площадь</displayName><value>81.52</value></Data>
+        <Data name="till_area"><displayName>Обрабатываемая площадь</displayName><value>84.0</value></Data>
+        <Data name="desc"><displayName>Описание</displayName><value></value></Data>
+        <Data name="variety"><displayName>Сорт</displayName><value></value></Data>
+        <Data name="product"><displayName>Урожайность</displayName><value></value></Data>
+        <Data name="sow_date"><displayName>Дата сева</displayName><value></value></Data>
+        <Data name="harv_date"><displayName>Дата уборки</displayName><value></value></Data>
+        <Data name="crop"><displayName>Культура</displayName><value>Пшеница</value></Data>
+        <Data name="crop_short"><displayName>Короткое название</displayName><value></value></Data>
+      </ExtendedData>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing><coordinates>
+81.65163314703344,52.74931059252877
+81.64740064429405,52.74645523769355
+81.64588534239402,52.74505144038838
+81.64570971011568,52.7450450688568
+81.64541781297436,52.74514085831745
+81.64506148590401,52.74542765993598
+81.64494012428092,52.74559826998084
+81.64482927719071,52.74574550121243
+81.64445766617916,52.74575156957287
+81.64406558948077,52.74587090507876
+81.6415570234005,52.74698561227482
+81.6408194144608,52.7474310832337
+81.64022613542141,52.74751598939579
+81.63936634001072,52.74796085637748
+81.63915405221205,52.74827523364927
+81.63919382875017,52.74852839619211
+81.63960786460991,52.74900323979179
+81.6411966140015,52.75050816515171
+81.64212633783609,52.75121594296846
+81.64236432495193,52.75127088479776
+81.64267989994802,52.7512709410458
+81.64319067228888,52.75103472512593
+81.64385619253683,52.75093879469497
+81.64408881536647,52.75102102282109
+81.64451984919525,52.75127872266616
+81.6448181403799,52.75137889192367
+81.64518852736524,52.75124706797525
+81.64653657789967,52.75082868749528
+81.64692704800325,52.75082874967932
+81.64711127482438,52.75084341636604
+81.64714675957192,52.75095346129425
+81.64694282379112,52.75108762040664
+81.64650901248423,52.75133693984336
+81.6463262627092,52.75157093024951
+81.64643746946889,52.7518340171989
+81.64666227616915,52.75199928743176
+81.64690291991569,52.75216240210661
+81.64708965624966,52.75234890030833
+81.64713973532996,52.75258899034024
+81.64693230525758,52.75296924764741
+81.64655726849963,52.75337795459564
+81.64642213962317,52.75374062963863
+81.64648372155412,52.75388613424413
+81.64672742841223,52.75406228341436
+81.64725359211964,52.75429975452652
+81.64795826009845,52.75447976358498
+81.64832832472247,52.75459002357286
+81.64960851171726,52.75536354565901
+81.6519683203232,52.75650245075588
+81.6525512263097,52.75664924797538
+81.65361059890859,52.75718211525865
+81.65440030014679,52.7575679175704
+81.65521112043301,52.75822608405752
+81.65615336865044,52.75865261276031
+81.65660252314065,52.75877870129655
+81.65689467525135,52.75874077065622
+81.65706153563178,52.75864403605466
+81.6571839915319,52.75843276116125
+81.65860435363946,52.75468864422519
+81.6589174663884,52.75410687175821
+81.65893607224146,52.75398717290566
+81.65882845257937,52.75386362177503
+81.65854705684761,52.75380116689495
+81.65828744193044,52.75366732561399
+81.65501614982936,52.75172759907809
+81.65299770737397,52.75045625167668
+81.65163314703344,52.74931059252877
+</coordinates></LinearRing></outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+    </Placemark>
+    <Placemark id="55159">
+      <name>4А</name>
+      <styleUrl>#default</styleUrl>
+      <ExtendedData>
+        <Data name="group"><displayName>Группа полей</displayName><value>КХ Васильцов</value></Data>
+        <Data name="name"><displayName>Имя</displayName><value>4А</value></Data>
+        <Data name="is_active"><displayName>используется</displayName><value>1</value></Data>
+        <Data name="adm_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="subad_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="locality"><displayName>Место</displayName><value></value></Data>
+        <Data name="mapp_area"><displayName>Расчетная площадь</displayName><value>42.9</value></Data>
+        <Data name="legl_area"><displayName>Официальная площадь</displayName><value>42.9</value></Data>
+        <Data name="till_area"><displayName>Обрабатываемая площадь</displayName><value>44.0</value></Data>
+        <Data name="desc"><displayName>Описание</displayName><value></value></Data>
+        <Data name="variety"><displayName>Сорт</displayName><value></value></Data>
+        <Data name="product"><displayName>Урожайность</displayName><value></value></Data>
+        <Data name="sow_date"><displayName>Дата сева</displayName><value></value></Data>
+        <Data name="harv_date"><displayName>Дата уборки</displayName><value></value></Data>
+        <Data name="crop"><displayName>Культура</displayName><value></value></Data>
+        <Data name="crop_short"><displayName>Короткое название</displayName><value></value></Data>
+      </ExtendedData>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing><coordinates>
+81.66744158197349,52.75069323373277
+81.66443401120117,52.74912262962413
+81.66304499336043,52.74843525934956
+81.66286655468238,52.74846636174095
+81.66271206697597,52.74851317450598
+81.66007157839356,52.75255032223195
+81.66025955884461,52.75269984489046
+81.66253706753687,52.75406852238363
+81.66397206782787,52.75504440162878
+81.6679605647358,52.75739239208932
+81.66813603401741,52.75741513047903
+81.67278553310986,52.75396939021963
+81.67284456249732,52.7538727700258
+81.67278160658896,52.75376661120155
+81.67267279785221,52.7536515555569
+81.66912757223501,52.75145969911203
+81.66744158197349,52.75069323373277
+</coordinates></LinearRing></outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+    </Placemark>
+    <Placemark id="55161">
+      <name>5</name>
+      <styleUrl>#42</styleUrl>
+      <ExtendedData>
+        <Data name="group"><displayName>Группа полей</displayName><value>КХ Васильцов</value></Data>
+        <Data name="name"><displayName>Имя</displayName><value>5</value></Data>
+        <Data name="is_active"><displayName>используется</displayName><value>1</value></Data>
+        <Data name="adm_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="subad_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="locality"><displayName>Место</displayName><value></value></Data>
+        <Data name="mapp_area"><displayName>Расчетная площадь</displayName><value>111.95</value></Data>
+        <Data name="legl_area"><displayName>Официальная площадь</displayName><value>111.95</value></Data>
+        <Data name="till_area"><displayName>Обрабатываемая площадь</displayName><value>110.0</value></Data>
+        <Data name="desc"><displayName>Описание</displayName><value></value></Data>
+        <Data name="variety"><displayName>Сорт</displayName><value>сибирская</value></Data>
+        <Data name="product"><displayName>Урожайность</displayName><value></value></Data>
+        <Data name="sow_date"><displayName>Дата сева</displayName><value></value></Data>
+        <Data name="harv_date"><displayName>Дата уборки</displayName><value></value></Data>
+        <Data name="crop"><displayName>Культура</displayName><value>Пшеница озимая</value></Data>
+        <Data name="crop_short"><displayName>Короткое название</displayName><value></value></Data>
+      </ExtendedData>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing><coordinates>
+81.64143611573402,52.76392702675137
+81.63961423547886,52.76332769182973
+81.63927485973353,52.76325936120463
+81.63904084236225,52.76329383028594
+81.63876212835164,52.76356051858889
+81.63819580270628,52.76461071408507
+81.63749873126541,52.76635940927648
+81.6373182675477,52.76677989730186
+81.63692846055523,52.76725096958507
+81.63606431263418,52.76886104394146
+81.63566187696111,52.76897373190609
+81.63524570148331,52.76905274066775
+81.63481031198704,52.76942416086537
+81.63434376097324,52.77002794348459
+81.63396801832356,52.77062407125339
+81.6339201299872,52.77104662727152
+81.63356303293428,52.77139176007942
+81.63253245901986,52.77228944303269
+81.63234746600966,52.77255780758961
+81.6323373303027,52.77269633247668
+81.63254850178643,52.77290145887985
+81.63497622342629,52.77360495653319
+81.63689732661018,52.77400050267633
+81.63803354982309,52.77421498257643
+81.63863038889616,52.77459374763276
+81.6391171783574,52.77494597217071
+81.64033046073392,52.77525758756546
+81.6419527964994,52.77566543245186
+81.64313943167403,52.77572088644816
+81.64381924886993,52.77585555694547
+81.6445132915372,52.77621721784158
+81.64490867174165,52.77634075891371
+81.64496272744776,52.77635799183754
+81.64617118692341,52.77687570156628
+81.64694243369969,52.77713880448719
+81.647311000544,52.77721566353005
+81.64760021064099,52.77713891215981
+81.64803096877654,52.77688986253984
+81.64825013026692,52.7765174309019
+81.64986531707937,52.77326106418847
+81.65279728143342,52.76766605483526
+81.65302808693934,52.7672025403764
+81.65295025700925,52.76714152820548
+81.65193513620426,52.76689327993562
+81.65124158760676,52.766799989809
+81.65088582231351,52.76689132457845
+81.65058650295371,52.76687986632004
+81.65022114439805,52.76674153919872
+81.64986379874719,52.76651958984448
+81.64944988601091,52.76623146341893
+81.64143611573402,52.76392702675137
+</coordinates></LinearRing></outerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.64356364225156,52.768779096185646
+81.64645550667838,52.7695231195576
+81.64630108673326,52.7699583030393
+81.64552898700765,52.77070232641125
+81.64451823827595,52.77080059364905
+81.64360575678205,52.77075847911856
+81.64304422970888,52.770842708179536
+81.64273538981864,52.7713059680149
+81.64241251175157,52.77139019707588
+81.64166848837962,52.771235777130755
+81.64152810661133,52.77092693724052
+81.64158425931865,52.77051983011247
+81.64273538981864,52.76897563066125
+81.64297403882473,52.76873698165516
+81.64356364225156,52.768779096185646
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.6475224081174,52.77056194464296
+81.64806989701374,52.76997234121613
+81.64948775287348,52.77037944834417
+81.65006331812349,52.77075847911856
+81.65023177624543,52.7713059680149
+81.64983870729422,52.77179730420392
+81.64948775287348,52.77195172414905
+81.64923506569056,52.77242902216124
+81.6487718058552,52.77329938912465
+81.64832258419666,52.77358015266123
+81.64778913347716,52.77360822901489
+81.64733991181862,52.77350996177709
+81.64668011750764,52.773144969179526
+81.6461747431418,52.77273786205148
+81.64610455225765,52.77247113669173
+81.6475224081174,52.77056194464296
+</coordinates></LinearRing></innerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+    </Placemark>
+    <Placemark id="55179">
+      <name>6</name>
+      <styleUrl>#63</styleUrl>
+      <ExtendedData>
+        <Data name="group"><displayName>Группа полей</displayName><value>КХ Васильцов</value></Data>
+        <Data name="name"><displayName>Имя</displayName><value>6</value></Data>
+        <Data name="is_active"><displayName>используется</displayName><value>1</value></Data>
+        <Data name="adm_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="subad_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="locality"><displayName>Место</displayName><value></value></Data>
+        <Data name="mapp_area"><displayName>Расчетная площадь</displayName><value>208.71</value></Data>
+        <Data name="legl_area"><displayName>Официальная площадь</displayName><value>208.71</value></Data>
+        <Data name="till_area"><displayName>Обрабатываемая площадь</displayName><value>212.0</value></Data>
+        <Data name="desc"><displayName>Описание</displayName><value></value></Data>
+        <Data name="variety"><displayName>Сорт</displayName><value></value></Data>
+        <Data name="product"><displayName>Урожайность</displayName><value></value></Data>
+        <Data name="sow_date"><displayName>Дата сева</displayName><value></value></Data>
+        <Data name="harv_date"><displayName>Дата уборки</displayName><value></value></Data>
+        <Data name="crop"><displayName>Культура</displayName><value>Пшеница</value></Data>
+        <Data name="crop_short"><displayName>Короткое название</displayName><value></value></Data>
+      </ExtendedData>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing><coordinates>
+81.67381035271649,52.768612241628915
+81.67480850709171,52.76787334813037
+81.67480703974888,52.76787277196724
+81.67492238741312,52.76761499285743
+81.67527137950205,52.76729806246841
+81.67692807207584,52.76633295115411
+81.67759203934708,52.76585910914316
+81.67822228774975,52.76544737385533
+81.67861741042871,52.76513072965553
+81.67886633678364,52.76497636895853
+81.67889505939227,52.76490081979449
+81.67878724386118,52.76480937276357
+81.673599512732,52.76265568735224
+81.67252568147025,52.76232429239252
+81.67225650773197,52.76213620715544
+81.67207793925445,52.76175106184973
+81.6717508477296,52.76142151758548
+81.67122177228894,52.76119078519333
+81.66884184315695,52.7602154930404
+81.66721901676945,52.75949288339728
+81.66171302011723,52.75623652662348
+81.65976025279775,52.7549919876931
+81.65919476609416,52.75468378346258
+81.65895477333288,52.75466739009578
+81.65879669362695,52.75477398253094
+81.65856932462592,52.75525148498995
+81.65688976528894,52.75953296242734
+81.65479644704295,52.76371585956069
+81.65383460788709,52.76568984828079
+81.65301138069464,52.76755387569664
+81.65130302552254,52.77096027380799
+81.65022505463872,52.77283950010173
+81.64891383636822,52.77555213149987
+81.6488506304452,52.77589387227796
+81.64909766961003,52.77617766401464
+81.64975755578537,52.77638183206017
+81.65038757767195,52.77676793239729
+81.65131417826063,52.77704854123147
+81.65180147431495,52.77716587507109
+81.65237242477085,52.77703848491217
+81.6528338759944,52.77686481750568
+81.65312815523926,52.77674082310227
+81.65308196827792,52.77656164033112
+81.65300684232398,52.77632044299138
+81.65313515787544,52.77617397563289
+81.65336685585238,52.77623726965403
+81.6537475571418,52.77639227451163
+81.6539812254022,52.77642850659817
+81.65429702670619,52.77637189461618
+81.65480463859154,52.77603345523019
+81.65567626620394,52.77538481790357
+81.65613495763552,52.77529860153597
+81.65675052488959,52.77536293379594
+81.65760386420284,52.77541016288171
+81.65795835567154,52.77543079783096
+81.65827418930313,52.77554600229052
+81.65886891034428,52.77578099735115
+81.65913702724956,52.77599887963567
+81.66010962209718,52.77663373529607
+81.66087974323518,52.77694917105471
+81.66122231360505,52.77683273062121
+81.66461999757456,52.77451572658587
+81.66602466789651,52.77353573224146
+81.6662789022666,52.77351673015737
+81.66637317928938,52.77357544167079
+81.66700658522764,52.77303093481159
+81.6668605607201,52.77299493975245
+81.66112623394808,52.77057534309236
+81.66097242843945,52.77048103583114
+81.6610087721842,52.77025839432605
+81.66238692200227,52.76740785488094
+81.66300298751001,52.76600874570747
+81.66294568009776,52.76578666767234
+81.66204800040236,52.76517090832946
+81.66062227838158,52.76453970771676
+81.66040479160522,52.76421446761047
+81.66026245232236,52.76393314403945
+81.66034413404364,52.76360545734203
+81.66051732323582,52.76347314696235
+81.66079255862593,52.76329732987949
+81.66117265774609,52.76310287361506
+81.66185038029349,52.76271993876992
+81.66223883065224,52.76255222581506
+81.66254218356138,52.76249022730077
+81.66306851631009,52.76266374684138
+81.6634494746244,52.76300017939224
+81.6639906694508,52.76325232845912
+81.66435402949254,52.76348983144359
+81.66498365546043,52.76368748308838
+81.66536472712264,52.7636961451251
+81.66581181202103,52.76363241919638
+81.66614300375578,52.76364709516453
+81.66634202658018,52.76376565780566
+81.66643571051976,52.76400027548651
+81.66639667229958,52.76445608790217
+81.66610272337594,52.76507368055001
+81.66594606845347,52.7654862947225
+81.66599970846941,52.76566008601428
+81.66627953614305,52.76586176311017
+81.66725731981597,52.76630693491276
+81.66799361519553,52.76668623225932
+81.66836839419439,52.76726808369381
+81.66856877256758,52.76797822109175
+81.66888284047981,52.76833662829582
+81.67132763037186,52.76973250221352
+81.67160763330584,52.76981280030521
+81.67185057564886,52.76976811078131
+81.67211081314801,52.76966172857159
+81.67373180201193,52.76854093392518
+81.67381035271649,52.768612241628915
+</coordinates></LinearRing></outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+    </Placemark>
+    <Placemark id="55160">
+      <name>7</name>
+      <styleUrl>#63</styleUrl>
+      <ExtendedData>
+        <Data name="group"><displayName>Группа полей</displayName><value>КХ Васильцов</value></Data>
+        <Data name="name"><displayName>Имя</displayName><value>7</value></Data>
+        <Data name="is_active"><displayName>используется</displayName><value>1</value></Data>
+        <Data name="adm_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="subad_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="locality"><displayName>Место</displayName><value></value></Data>
+        <Data name="mapp_area"><displayName>Расчетная площадь</displayName><value>111.72</value></Data>
+        <Data name="legl_area"><displayName>Официальная площадь</displayName><value>111.72</value></Data>
+        <Data name="till_area"><displayName>Обрабатываемая площадь</displayName><value>114.0</value></Data>
+        <Data name="desc"><displayName>Описание</displayName><value></value></Data>
+        <Data name="variety"><displayName>Сорт</displayName><value></value></Data>
+        <Data name="product"><displayName>Урожайность</displayName><value></value></Data>
+        <Data name="sow_date"><displayName>Дата сева</displayName><value></value></Data>
+        <Data name="harv_date"><displayName>Дата уборки</displayName><value></value></Data>
+        <Data name="crop"><displayName>Культура</displayName><value>Пшеница</value></Data>
+        <Data name="crop_short"><displayName>Короткое название</displayName><value></value></Data>
+      </ExtendedData>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing><coordinates>
+81.66700658522764,52.77303093481159
+81.66637317928938,52.77357544167079
+81.6663907527847,52.77358638565774
+81.66633104755476,52.77376513640094
+81.66141901038561,52.77710198248943
+81.66107615948434,52.77785251644679
+81.66100113955008,52.77825744472553
+81.66133773903866,52.7790155886428
+81.6606359444081,52.77931221657838
+81.65981085625238,52.77948658037812
+81.65938656320716,52.77930788296531
+81.65902652145543,52.77914593347267
+81.6587306551044,52.77914589432967
+81.65808736888815,52.77999913981125
+81.65656983872059,52.78297728736744
+81.65642300605526,52.78383559065861
+81.65722856193817,52.7844734173638
+81.65763804957118,52.78462483941318
+81.65886598203059,52.78391958872244
+81.65960106973361,52.78330855341311
+81.65987163534339,52.78299551398503
+81.6603481428279,52.78266984504192
+81.6606047004461,52.78263526919798
+81.66106404752581,52.78277933611363
+81.66186684601777,52.78309655197674
+81.66210395715225,52.78331619047498
+81.66254424000837,52.78451236351422
+81.66284640093757,52.78519737481548
+81.6628027025606,52.78537336447263
+81.66257020557275,52.78546686592208
+81.66230366678525,52.78542352290985
+81.66066052213944,52.78477821330134
+81.66035560914221,52.78467964761118
+81.66016711939217,52.78466659518563
+81.6599689642721,52.78475850551715
+81.65895030188763,52.78547411928633
+81.65898349334155,52.78560496184107
+81.66111538513596,52.78680601701784
+81.66126748521516,52.78685392405699
+81.66145706541786,52.78682996201669
+81.6615921721794,52.78676638565695
+81.66535194737749,52.78403053876357
+81.67213315404281,52.77927086763604
+81.67813218299749,52.77503206773223
+81.67871600107146,52.7745473255007
+81.67869073851223,52.77452410265531
+81.67865546787178,52.77435593805412
+81.67868618465917,52.77419884692435
+81.6794210260383,52.77365808886452
+81.67983887627071,52.7733357293806
+81.67977584969817,52.77323818262204
+81.67968537011788,52.77314837867019
+81.6740294961108,52.77038506289153
+81.6738702270369,52.77041745302076
+81.6692715302897,52.77371413618491
+81.6691698626901,52.77373747412377
+81.66896316799183,52.77372284743589
+81.66733904372883,52.77297954515989
+81.66703971537403,52.77303910139676
+81.66700658522764,52.77303093481159
+</coordinates></LinearRing></outerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.66494378556244,52.777468727642926
+81.66596857247097,52.77783372024049
+81.66643183230634,52.77828294189902
+81.66631952689171,52.77859178178927
+81.66599664882463,52.77869004902707
+81.66485955650147,52.77856370543561
+81.66407341859903,52.77843736184414
+81.66394707500757,52.77817063648439
+81.66412957130635,52.777847758417316
+81.66494378556244,52.777468727642926
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.6631468989283,52.779111194331946
+81.66404534224537,52.77919542339292
+81.66421380036732,52.77954637781365
+81.66441033484294,52.77998156129536
+81.66417168583683,52.780150019417306
+81.66327324251976,52.78010790488682
+81.66272575362343,52.78013598124048
+81.66254325732466,52.77970079775877
+81.66259941003197,52.7793779196917
+81.6631468989283,52.779111194331946
+</coordinates></LinearRing></innerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+    </Placemark>
+    <Placemark id="55180">
+      <name>8</name>
+      <styleUrl>#default</styleUrl>
+      <ExtendedData>
+        <Data name="group"><displayName>Группа полей</displayName><value>КХ Васильцов</value></Data>
+        <Data name="name"><displayName>Имя</displayName><value>8</value></Data>
+        <Data name="is_active"><displayName>используется</displayName><value>1</value></Data>
+        <Data name="adm_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="subad_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="locality"><displayName>Место</displayName><value></value></Data>
+        <Data name="mapp_area"><displayName>Расчетная площадь</displayName><value>35.71</value></Data>
+        <Data name="legl_area"><displayName>Официальная площадь</displayName><value>35.71</value></Data>
+        <Data name="till_area"><displayName>Обрабатываемая площадь</displayName><value>34.0</value></Data>
+        <Data name="desc"><displayName>Описание</displayName><value></value></Data>
+        <Data name="variety"><displayName>Сорт</displayName><value></value></Data>
+        <Data name="product"><displayName>Урожайность</displayName><value></value></Data>
+        <Data name="sow_date"><displayName>Дата сева</displayName><value></value></Data>
+        <Data name="harv_date"><displayName>Дата уборки</displayName><value></value></Data>
+        <Data name="crop"><displayName>Культура</displayName><value></value></Data>
+        <Data name="crop_short"><displayName>Короткое название</displayName><value></value></Data>
+      </ExtendedData>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing><coordinates>
+81.67480850709171,52.76787334813037
+81.67381035271649,52.768612241628915
+81.67386962136345,52.7686660452344
+81.67407756722537,52.76881761651279
+81.67790101128276,52.7701266991103
+81.68173528595909,52.77162488074532
+81.68214782310386,52.77176231198826
+81.68239426923304,52.77180374664744
+81.68623179269295,52.76913388170197
+81.68755041887755,52.7682492736995
+81.68755888739348,52.76815018831466
+81.687485326974,52.76801240813042
+81.68494932824035,52.76696187213013
+81.68485661582835,52.7668913868275
+81.68473527759444,52.76686468571261
+81.68450339509953,52.7669873795401
+81.6843388568329,52.76700460749555
+81.68404775615205,52.76703928485011
+81.6796404687734,52.76513252561908
+81.67929711311618,52.76510425758345
+81.67911148317529,52.76521086488413
+81.67846452465425,52.7656309780246
+81.67673613774365,52.76675799542005
+81.67601684997287,52.76719360958924
+81.67554366765121,52.76768187260397
+81.67496211624551,52.76793366391291
+81.67480850709171,52.76787334813037
+</coordinates></LinearRing></outerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+    </Placemark>
+    <Placemark id="55170">
+      <name>9</name>
+      <styleUrl>#63</styleUrl>
+      <ExtendedData>
+        <Data name="group"><displayName>Группа полей</displayName><value>КХ Васильцов</value></Data>
+        <Data name="name"><displayName>Имя</displayName><value>9</value></Data>
+        <Data name="is_active"><displayName>используется</displayName><value>1</value></Data>
+        <Data name="adm_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="subad_name"><displayName>Область</displayName><value></value></Data>
+        <Data name="locality"><displayName>Место</displayName><value></value></Data>
+        <Data name="mapp_area"><displayName>Расчетная площадь</displayName><value>265.64</value></Data>
+        <Data name="legl_area"><displayName>Официальная площадь</displayName><value>265.64</value></Data>
+        <Data name="till_area"><displayName>Обрабатываемая площадь</displayName><value>272.0</value></Data>
+        <Data name="desc"><displayName>Описание</displayName><value></value></Data>
+        <Data name="variety"><displayName>Сорт</displayName><value></value></Data>
+        <Data name="product"><displayName>Урожайность</displayName><value></value></Data>
+        <Data name="sow_date"><displayName>Дата сева</displayName><value></value></Data>
+        <Data name="harv_date"><displayName>Дата уборки</displayName><value></value></Data>
+        <Data name="crop"><displayName>Культура</displayName><value>Пшеница</value></Data>
+        <Data name="crop_short"><displayName>Короткое название</displayName><value></value></Data>
+      </ExtendedData>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing><coordinates>
+81.63933983871219,52.80552031185326
+81.61877350087592,52.82061535848371
+81.61529243057647,52.82310071033731
+81.6146867479447,52.82345072388393
+81.61041044862255,52.8264514317289
+81.61045488822512,52.82656509604082
+81.61224711469194,52.82724860636038
+81.62081800961766,52.82090005917365
+81.62103559763597,52.82090073369944
+81.62099119323513,52.82103345606954
+81.61249808124104,52.82738537163
+81.6126632878208,52.82743739653469
+81.61866311722069,52.83014554541251
+81.62079055115767,52.83118300122456
+81.6210510220605,52.83122243563456
+81.62129983087164,52.8311832698426
+81.62185551492183,52.83080416510079
+81.63700960175744,52.81961787112099
+81.64853209885709,52.81115067778119
+81.6496119478243,52.81052034142879
+81.64952809922913,52.81022721393477
+81.64928823682507,52.80989505509912
+81.64892969022105,52.80967141078929
+81.64513828332065,52.80768553704558
+81.64458946446823,52.80752324419367
+81.64388784386863,52.80732532156448
+81.64351030238598,52.80702118004304
+81.64314630771842,52.80678288341226
+81.64063806673973,52.80553281925548
+81.63996050605323,52.80527592765616
+81.63978311635732,52.80524414861024
+81.63955067609257,52.80525459800601
+81.63949036555594,52.8053921509331
+81.63933983871219,52.80552031185326
+</coordinates></LinearRing></outerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.63599706494064,52.81031806142326
+81.63720434814795,52.809784610703744
+81.6375693407455,52.80984076341107
+81.63740088262355,52.810402290484234
+81.63644628659917,52.811188428386664
+81.63594091223332,52.81138496286228
+81.6350143925626,52.811272657447645
+81.63495823985528,52.81087958849643
+81.6352109270382,52.810514595898866
+81.63599706494064,52.81031806142326
+</coordinates></LinearRing></innerBoundaryIs>
+<innerBoundaryIs><LinearRing><coordinates>
+81.61909510003827,52.824145665600014
+81.61979700887973,52.823878940240256
+81.61995142882485,52.823878940240256
+81.62010584876998,52.823892978417085
+81.62013392512364,52.82417374195367
+81.61995142882485,52.824875650795136
+81.619446054459,52.825296796100005
+81.61895471826998,52.82526871974635
+81.6183370384895,52.82508622344757
+81.6182387712517,52.82484757444148
+81.6183370384895,52.824665078142694
+81.61909510003827,52.824145665600014
+</coordinates></LinearRing></innerBoundaryIs>
+</Polygon>
+</MultiGeometry>
+    </Placemark>  </Document>
+</kml>

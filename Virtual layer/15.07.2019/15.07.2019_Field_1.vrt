@@ -1,0 +1,198 @@
+<VRTDataset rasterXSize="117" rasterYSize="131">
+  <SRS dataAxisToSRSAxisMapping="1,2">PROJCS["WGS 84 / UTM zone 44N",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",81],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","32644"]]</SRS>
+  <GeoTransform>  5.4084000000000000e+05,  2.6153846153846153e+01,  0.0000000000000000e+00,  5.8539600000000000e+06,  0.0000000000000000e+00, -2.6153846153846153e+01</GeoTransform>
+  <VRTRasterBand dataType="UInt16" band="1">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">531</MDI>
+      <MDI key="STATISTICS_MEAN">394.58827475181</MDI>
+      <MDI key="STATISTICS_MINIMUM">177</MDI>
+      <MDI key="STATISTICS_STDDEV">48.8691220923</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">97.27</MDI>
+    </Metadata>
+    <NoDataValue>0</NoDataValue>
+    <Histograms>
+      <HistItem>
+        <HistMin>176.5014084507042</HistMin>
+        <HistMax>531.4985915492957</HistMax>
+        <BucketCount>355</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|1|0|0|0|0|2|2|0|0|0|1|2|0|0|0|1|0|1|2|1|1|1|0|1|0|2|1|0|0|0|0|0|0|1|1|1|1|3|1|0|0|2|1|0|2|0|1|0|1|0|0|1|0|0|1|0|0|0|1|0|1|1|1|1|1|0|1|1|1|1|0|2|1|1|0|1|0|3|0|1|0|1|2|1|0|1|0|0|1|0|1|1|2|0|1|1|0|2|1|0|1|0|0|1|0|0|1|0|0|0|0|0|1|1|0|0|0|0|0|0|2|0|1|1|2|2|2|2|0|0|3|0|3|2|2|3|3|3|5|4|3|4|7|5|7|2|7|9|4|5|4|2|6|11|6|6|7|18|14|11|14|14|10|15|12|12|19|14|18|18|15|15|28|16|17|22|28|26|19|27|24|19|9|28|24|28|30|19|27|21|14|22|19|19|22|19|28|25|15|19|23|25|19|19|16|15|20|23|15|15|25|18|11|19|23|13|14|18|17|25|18|17|20|16|19|11|15|22|14|16|14|15|18|17|18|14|17|18|18|13|15|23|14|19|23|20|20|20|16|24|22|20|25|17|18|32|29|31|23|21|29|31|21|31|24|39|33|30|29|32|32|27|30|26|30|14|19|22|22|16|15|8|9|15|15|8|1|6|4|3|0|4|2|2|4|0|3|0|0|1|1|0|0|0|0|0|1|0|0|0|0|0|0|0|1|2|0|0|0|0|1|1|0|0|0|0|1|1|0|0|0|0|1|0|0|0|0|2|0|2|0|0|0|1|0|1|0|1|0|0|0|0|1|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/Userr/Desktop/Project QGIS Mamontovo field's/Field Shots/2019/15.07.2019/1 Field/S2A_tile_20190715_44UND_0_R60B01.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="51" RasterYSize="57" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="51" ySize="57" />
+      <DstRect xOff="0" yOff="0" xSize="117" ySize="130.764705882353" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="2">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">792</MDI>
+      <MDI key="STATISTICS_MEAN">477.61277732128</MDI>
+      <MDI key="STATISTICS_MINIMUM">167</MDI>
+      <MDI key="STATISTICS_STDDEV">66.615934847909</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">95.28</MDI>
+    </Metadata>
+    <NoDataValue>0</NoDataValue>
+    <Histograms>
+      <HistItem>
+        <HistMin>166.5007987220447</HistMin>
+        <HistMax>792.4992012779553</HistMax>
+        <BucketCount>626</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|1|1|1|1|3|2|2|3|6|2|8|2|2|8|3|7|4|9|8|10|12|9|9|10|9|16|9|17|13|18|15|17|16|17|24|26|14|27|18|25|26|19|21|17|23|21|19|26|29|19|26|24|26|21|28|20|17|28|29|25|51|22|29|37|27|27|34|19|36|38|17|37|37|29|33|34|36|34|38|28|28|29|31|37|29|30|27|41|20|35|31|29|45|30|36|47|30|34|31|39|22|51|31|30|39|25|19|28|40|26|36|35|25|26|30|24|25|36|27|31|27|19|26|25|37|21|22|31|29|15|24|18|34|23|9|23|29|23|20|25|17|18|30|21|23|12|21|24|15|23|24|31|12|20|10|27|12|29|31|18|19|22|27|21|21|21|11|29|28|11|13|21|17|23|12|27|22|17|27|21|14|15|27|24|22|19|27|18|19|37|15|23|27|38|32|23|28|32|20|26|39|38|27|29|62|38|46|52|37|55|50|91|70|69|68|83|71|85|102|107|88|112|149|103|121|152|148|131|88|198|141|163|157|238|170|189|285|182|204|196|304|222|274|260|259|252|289|302|293|290|347|391|324|337|535|401|384|352|590|298|402|420|458|458|401|466|493|464|459|628|364|555|570|634|485|599|790|541|586|568|654|569|504|710|576|520|563|634|604|521|818|549|535|532|714|518|517|560|749|560|531|812|606|582|556|750|580|580|401|705|474|654|759|546|614|580|753|576|597|758|480|675|606|873|589|686|622|932|671|410|853|638|663|632|897|653|693|888|799|719|695|853|845|839|734|741|989|703|859|669|657|733|809|893|772|642|794|847|828|680|685|745|897|601|739|621|610|532|747|441|432|687|467|407|478|574|404|463|494|438|325|357|450|348|261|191|416|234|187|199|252|159|167|217|188|175|138|187|146|134|155|118|105|113|145|82|84|70|90|83|55|100|43|80|45|78|56|57|70|43|45|35|51|40|34|21|67|50|30|50|37|35|30|47|38|14|29|26|17|23|35|33|20|24|33|22|23|31|15|16|21|17|10|17|18|15|11|13|15|11|13|9|11|18|7|15|6|0|19|11|7|6|3|14|10|6|11|10|7|7|10|5|9|17|3|6|4|4|6|5|6|12|2|9|7|2|8|1|4|9|5|7|9|2|12|3|5|5|3|6|7|6|3|9|3|7|8|5|2|2|6|6|1|4|6|5|3|2|2|3|2|4|7|1|5|5|5|2|3|2|6|5|0|2|0|4|3|1|4|2|2|2|3|0|4|6|0|3|2|4|6|0|0|1|1|3|1|1|3|2|3|1|0|4|3|0|1|2|1|6|1|1|1|0|2|0|1|1|1|3|0|0|2|2|1|2|1|0|0|3|2|0|1|3|1|0|2|1|0|1|1|0|0|0|0|0|0|0|0|0|2|0|0|0|2</HistCounts>
+      </HistItem>
+    </Histograms>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/Userr/Desktop/Project QGIS Mamontovo field's/Field Shots/2019/15.07.2019/1 Field/S2A_tile_20190715_44UND_0_R10B02.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="332" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="332" />
+      <DstRect xOff="0.764705882352941" yOff="1.91176470588235" xSize="116.235294117647" ySize="126.941176470588" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="3">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">1116</MDI>
+      <MDI key="STATISTICS_MEAN">715.28184059162</MDI>
+      <MDI key="STATISTICS_MINIMUM">280</MDI>
+      <MDI key="STATISTICS_STDDEV">91.271316943712</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">95.28</MDI>
+    </Metadata>
+    <NoDataValue>0</NoDataValue>
+    <Histograms>
+      <HistItem>
+        <HistMin>279.5005973715651</HistMin>
+        <HistMax>1116.499402628435</HistMax>
+        <BucketCount>837</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|1|0|1|0|0|1|0|1|1|0|0|0|0|2|0|1|0|1|1|2|1|0|0|0|0|1|3|0|3|6|1|2|1|4|0|2|1|2|3|2|2|2|5|3|8|4|2|3|2|6|7|3|5|7|6|5|5|0|10|5|1|2|11|3|7|7|7|7|6|17|7|3|10|12|3|6|9|6|14|4|14|5|7|5|14|8|13|12|8|6|9|11|9|9|11|10|12|9|17|10|10|10|12|6|13|13|6|7|12|15|8|8|20|13|13|14|18|12|10|7|16|5|12|11|17|10|8|13|5|9|11|16|10|6|10|9|13|17|22|14|12|15|11|16|21|13|23|10|20|21|11|21|18|15|12|16|30|16|20|21|11|18|5|20|12|8|20|13|24|19|17|12|9|21|21|19|21|21|18|22|12|14|21|20|14|24|11|18|24|18|16|12|43|15|12|9|33|29|22|24|14|12|15|24|19|11|27|15|14|19|23|14|20|23|15|16|16|21|14|14|21|17|16|23|23|10|10|19|26|18|14|11|27|28|14|20|20|18|21|20|16|13|13|13|23|18|14|22|10|16|4|16|17|14|19|22|19|16|26|12|25|18|34|10|22|25|26|22|23|39|16|23|34|34|38|41|20|25|27|22|34|37|38|25|62|22|57|43|45|83|38|55|41|48|69|76|49|83|101|100|66|53|107|85|81|131|98|71|103|133|121|126|103|114|135|164|172|117|195|145|208|165|163|270|214|166|179|291|159|141|223|336|207|204|367|271|265|249|352|340|293|285|429|341|405|436|248|390|223|373|511|206|473|518|308|499|540|276|511|318|724|439|267|619|546|264|439|544|286|558|526|270|514|318|508|636|253|513|502|268|568|526|248|562|250|509|495|234|490|282|216|433|413|227|397|255|457|447|236|438|379|218|434|359|239|404|207|397|423|189|411|417|176|462|391|193|490|439|160|401|215|452|397|198|370|390|211|406|443|185|451|216|435|460|223|413|461|189|409|465|231|390|179|409|430|226|487|433|244|444|499|237|454|186|397|503|229|473|425|222|509|499|238|568|605|226|477|137|410|549|243|533|365|194|449|508|233|544|188|509|457|242|478|355|225|533|492|264|552|233|525|539|325|490|576|259|570|506|233|546|603|296|624|286|509|666|287|534|496|236|599|548|253|522|274|553|551|300|554|552|245|507|379|255|439|205|465|401|206|472|494|232|452|492|178|472|199|371|346|202|392|268|153|344|306|126|253|281|149|255|176|299|266|104|253|267|142|168|229|113|240|82|164|202|91|165|176|75|192|157|91|164|77|81|128|69|147|137|76|109|135|60|114|31|96|120|53|78|85|37|102|63|42|77|70|37|88|19|63|53|32|49|47|22|41|51|17|32|12|45|61|16|16|29|18|53|17|9|25|19|34|26|7|19|18|22|23|11|5|15|10|29|19|4|10|28|2|21|7|6|9|19|9|5|1|12|11|2|12|4|0|13|7|13|4|2|7|5|9|6|9|7|10|8|2|6|3|3|7|2|2|8|1|5|7|3|7|5|6|4|0|17|4|2|0|2|4|11|0|3|4|2|3|3|3|1|7|3|2|1|2|0|9|2|1|1|3|0|2|5|1|3|5|2|1|2|0|1|7|0|5|1|3|0|2|2|0|2|3|4|3|0|4|1|2|5|0|2|1|1|3|0|0|2|0|2|0|1|0|5|0|1|0|3|0|5|0|1|0|1|0|5|0|1|0|0|0|2|0|2|0|2|0|4|0|2|0|2|0|6|0|0|0|2|0|4|0|1|0|2|0|3|0|0|0|3|0|0|0|0|0|2|0|0|0|1|0|2|0|2|0|0|0|0|0|1|0|3|0|1|0|0|0|0|0|2|0|1|0|0|0|3|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/Userr/Desktop/Project QGIS Mamontovo field's/Field Shots/2019/15.07.2019/1 Field/S2A_tile_20190715_44UND_0_R10B03.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="332" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="332" />
+      <DstRect xOff="0.764705882352941" yOff="1.91176470588235" xSize="116.235294117647" ySize="126.941176470588" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="4">
+    <NoDataValue>0</NoDataValue>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/Userr/Desktop/Project QGIS Mamontovo field's/Field Shots/2019/15.07.2019/1 Field/S2A_tile_20190715_44UND_0_R10B04.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="332" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="332" />
+      <DstRect xOff="0.764705882352941" yOff="1.91176470588235" xSize="116.235294117647" ySize="126.941176470588" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="5">
+    <NoDataValue>0</NoDataValue>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/Userr/Desktop/Project QGIS Mamontovo field's/Field Shots/2019/15.07.2019/1 Field/S2A_tile_20190715_44UND_0_R20B05.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="152" RasterYSize="167" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="152" ySize="167" />
+      <DstRect xOff="0.764705882352941" yOff="1.52941176470588" xSize="116.235294117647" ySize="127.705882352941" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="6">
+    <NoDataValue>0</NoDataValue>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/Userr/Desktop/Project QGIS Mamontovo field's/Field Shots/2019/15.07.2019/1 Field/S2A_tile_20190715_44UND_0_R20B06.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="152" RasterYSize="167" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="152" ySize="167" />
+      <DstRect xOff="0.764705882352941" yOff="1.52941176470588" xSize="116.235294117647" ySize="127.705882352941" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="7">
+    <NoDataValue>0</NoDataValue>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/Userr/Desktop/Project QGIS Mamontovo field's/Field Shots/2019/15.07.2019/1 Field/S2A_tile_20190715_44UND_0_R20B07.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="152" RasterYSize="167" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="152" ySize="167" />
+      <DstRect xOff="0.764705882352941" yOff="1.52941176470588" xSize="116.235294117647" ySize="127.705882352941" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="8">
+    <NoDataValue>0</NoDataValue>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/Userr/Desktop/Project QGIS Mamontovo field's/Field Shots/2019/15.07.2019/1 Field/S2A_tile_20190715_44UND_0_R10B08.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="332" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="332" />
+      <DstRect xOff="0.764705882352941" yOff="1.91176470588235" xSize="116.235294117647" ySize="126.941176470588" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="9">
+    <NoDataValue>0</NoDataValue>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/Userr/Desktop/Project QGIS Mamontovo field's/Field Shots/2019/15.07.2019/1 Field/S2A_tile_20190715_44UND_0_R20B8A.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="152" RasterYSize="167" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="152" ySize="167" />
+      <DstRect xOff="0.764705882352941" yOff="1.52941176470588" xSize="116.235294117647" ySize="127.705882352941" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="10">
+    <NoDataValue>0</NoDataValue>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/Userr/Desktop/Project QGIS Mamontovo field's/Field Shots/2019/15.07.2019/1 Field/S2A_tile_20190715_44UND_0_R60B09.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="51" RasterYSize="57" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="51" ySize="57" />
+      <DstRect xOff="0" yOff="0" xSize="117" ySize="130.764705882353" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="11">
+    <NoDataValue>0</NoDataValue>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/Userr/Desktop/Project QGIS Mamontovo field's/Field Shots/2019/15.07.2019/1 Field/S2A_tile_20190715_44UND_0_R20B11.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="152" RasterYSize="167" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="152" ySize="167" />
+      <DstRect xOff="0.764705882352941" yOff="1.52941176470588" xSize="116.235294117647" ySize="127.705882352941" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="12">
+    <NoDataValue>0</NoDataValue>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/Userr/Desktop/Project QGIS Mamontovo field's/Field Shots/2019/15.07.2019/1 Field/S2A_tile_20190715_44UND_0_R20B12.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="152" RasterYSize="167" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="152" ySize="167" />
+      <DstRect xOff="0.764705882352941" yOff="1.52941176470588" xSize="116.235294117647" ySize="127.705882352941" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="13">
+    <NoDataValue>0</NoDataValue>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">C:/Users/Userr/Desktop/Project QGIS Mamontovo field's/Field Shots/2019/15.07.2019/1 Field/S2A_tile_20190715_44UND_0_R60B09.TIF</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="51" RasterYSize="57" DataType="UInt16" BlockXSize="512" BlockYSize="512" />
+      <SrcRect xOff="0" yOff="0" xSize="51" ySize="57" />
+      <DstRect xOff="0" yOff="0" xSize="117" ySize="130.764705882353" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+</VRTDataset>
